@@ -1,1 +1,2 @@
-# wikipedia-biography-parser
+# Wikipedia Biography Parser
+Crawls through wikipedia data pulls all biographies. 
