@@ -25,9 +25,9 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
                 print('JFIAOIJEIOSEFJOAJSEIFJAOSEJFOIASJEFIJASEOIFOASIEFJOIASEJFIASJEFOAJSEFEASOJAFASEJFAS')
             # Extract information from infobox
             for match in matches:
-                properties += {param.name.strip_code().strip(): param.value.strip_code().strip() 
+                properties.update({param.name.strip_code().strip(): param.value.strip_code().strip() 
                             for param in match.params
-                            if param.value.strip_code().strip()}
+                            if param.value.strip_code().strip()})
             
             raw_text = wikicode.strip_code().strip()
             return (title, properties, raw_text)
