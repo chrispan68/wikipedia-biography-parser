@@ -29,7 +29,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
                             for param in match.params
                             if param.value.strip_code().strip()})
             
-            raw_text = wikicode.strip_code().strip()
+            raw_text = wikicode
             return (title, properties, raw_text)
 
     def characters(self, content):
