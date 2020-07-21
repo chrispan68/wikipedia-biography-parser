@@ -24,8 +24,8 @@ with open(output, 'w') as f:
 
         if len(handler._people) > begin:
             print(handler._people[-1][0])
-            f.write(handler._people[-1][0]+ ":")
-            f.write(handler._people[-1][2]+"\n")
+            f.write(handler._people[-1][0]+ ":\n")
+            f.write(handler._people[-1][1]+"\n")
 
 
 
