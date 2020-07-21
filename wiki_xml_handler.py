@@ -1,4 +1,5 @@
 import xml.sax
+import mwparserfromhell
 
 class WikiXmlHandler(xml.sax.handler.ContentHandler):
     """Content handler for Wiki XML data using SAX"""
@@ -7,7 +8,28 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         self._buffer = None
         self._values = {}
         self._current_tag = None
-        self._pages = []
+        self._people = []
+
+    def process_article(self, title, text, timestamp, template = 'Infobox person'):
+        """Process a wikipedia article looking for template"""
+        
+        # Create a parsing object
+        wikicode = mwparserfromhell.parse(text)
+        
+        # Search through templates for the template
+        matches = wikicode.filter_templates(matches = template)
+        
+        if len(matches) >= 1:
+            # Extract information from infobox
+            properties = {param.name.strip_code().strip(): param.value.strip_code().strip() 
+                        for param in matches[0].params
+                        if param.value.strip_code().strip()}
+            
+            # Extract internal wikilinks
+            wikilinks = [x.title.strip_code().strip() for x in wikicode.filter_wikilinks()]
+            # Extract external links
+            exlinks = [x.url.strip_code().strip() for x in wikicode.filter_external_links()]
+            return (title, properties, wikilinks, exlinks, timestamp)
 
     def characters(self, content):
         """Characters between opening and closing tags"""
@@ -26,4 +48,10 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
             self._values[name] = ' '.join(self._buffer)
 
         if name == 'page':
-            self._pages.append((self._values['title'], self._values['text']))
+            person = self.process_article(**self._values, 
+                               template = 'Infobox person')
+            # If article is a book append to the list of books
+            if person:
+                self._people.append(person)
+
+    

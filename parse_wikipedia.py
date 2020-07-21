@@ -14,10 +14,14 @@ parser.setContentHandler(handler)
 for line in subprocess.Popen(['bzcat'], 
                               stdin = open(data_path), 
                               stdout = subprocess.PIPE).stdout:
-    parser.feed(line)
-    
-    # Stop when 3 articles have been found
-    if len(handler._pages) > 5:
-        for page in handler._pages:
-            print(page[0] + page[1])
+    begin = len(parser._people)
+    try:
+        parser.feed(line)
+    except StopIteration:
         break
+
+    if len(parser._people) > begin:
+        print(parser._people[-1][0])
+
+
+    
