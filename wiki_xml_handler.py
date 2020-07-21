@@ -21,7 +21,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         
         properties = {}
         if len(matches) >= 1:
-            if len(matches) >= 2):
+            if len(matches) >= 2:
                 print('JFIAOIJEIOSEFJOAJSEIFJAOSEJFOIASJEFIJASEOIFOASIEFJOIASEJFIASJEFOAJSEFEASOJAFASEJFAS')
             # Extract information from infobox
             for match in matches:
