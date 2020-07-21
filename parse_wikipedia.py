@@ -23,7 +23,7 @@ with open(output, 'w') as f:
             break
 
         if len(handler._people) > begin:
-            print(handler._people[-1][0] + ": " + str(handler._people[-1][1]))
+            print(handler._people[-1][0] + ": " + str(handler._people[-1][1]['birth_date']))
             f.write(handler._people[-1][0] + ":\n")
             f.write(handler._people[-1][2] +"\n")
 
