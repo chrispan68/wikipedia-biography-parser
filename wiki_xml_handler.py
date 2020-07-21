@@ -19,11 +19,13 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         # Search through templates for the template
         matches = wikicode.filter_templates(matches = template)
         
+        properties = []
         if len(matches) >= 1:
             # Extract information from infobox
-            properties = {param.name.strip_code().strip(): param.value.strip_code().strip() 
-                        for param in matches[0].params
-                        if param.value.strip_code().strip()}
+            for match in matches:
+                properties += {param.name.strip_code().strip(): param.value.strip_code().strip() 
+                            for param in match.params
+                            if param.value.strip_code().strip()}
             
             raw_text = wikicode.strip_code().strip()
             return (title, properties, raw_text)
