@@ -10,7 +10,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         self._current_tag = None
         self._people = []
 
-    def process_article(self, title, text, timestamp, template = 'Infobox person'):
+    def process_article(self, title, text, template = 'Infobox person'):
         """Process a wikipedia article looking for template"""
         
         # Create a parsing object
@@ -29,7 +29,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
             wikilinks = [x.title.strip_code().strip() for x in wikicode.filter_wikilinks()]
             # Extract external links
             exlinks = [x.url.strip_code().strip() for x in wikicode.filter_external_links()]
-            return (title, properties, wikilinks, exlinks, timestamp)
+            return (title, properties, wikilinks, exlinks)
 
     def characters(self, content):
         """Characters between opening and closing tags"""
