@@ -4,6 +4,7 @@ import sys
 import subprocess
 
 data_path = sys.argv[1]
+output = sys.argv[2]
 
 # Object for handling xml
 handler = WikiXmlHandler()
@@ -11,17 +12,21 @@ handler = WikiXmlHandler()
 parser = xml.sax.make_parser()
 parser.setContentHandler(handler)
 # Iteratively process file
-for line in subprocess.Popen(['bzcat'], 
-                              stdin = open(data_path), 
-                              stdout = subprocess.PIPE).stdout:
-    begin = len(handler._people)
-    try:
-        parser.feed(line)
-    except StopIteration:
-        break
+with open(output, 'w') as f:
+    for line in subprocess.Popen(['bzcat'], 
+                                stdin = open(data_path), 
+                                stdout = subprocess.PIPE).stdout:
+        begin = len(handler._people)
+        try:
+            parser.feed(line)
+        except StopIteration:
+            break
 
-    if len(handler._people) > begin:
-        print(handler._people[-1][0])
+        if len(handler._people) > begin:
+            print(handler._people[-1][0])
+            f.write(handler._people[-1][0]+ ":")
+            f.write(handler._people[-1][2]+"\n")
+
 
 
     

@@ -25,11 +25,8 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
                         for param in matches[0].params
                         if param.value.strip_code().strip()}
             
-            # Extract internal wikilinks
-            wikilinks = [x.title.strip_code().strip() for x in wikicode.filter_wikilinks()]
-            # Extract external links
-            exlinks = [x.url.strip_code().strip() for x in wikicode.filter_external_links()]
-            return (title, properties, wikilinks, exlinks)
+            raw_text = wikicode.strip_code().strip()
+            return (title, properties, raw_text)
 
     def characters(self, content):
         """Characters between opening and closing tags"""
