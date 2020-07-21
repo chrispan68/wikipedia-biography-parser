@@ -19,5 +19,5 @@ for line in subprocess.Popen(['bzcat'],
     # Stop when 3 articles have been found
     if len(handler._pages) > 5:
         for page in handler._pages:
-            print(page[0])
+            print(page[0] + page[1])
         break
