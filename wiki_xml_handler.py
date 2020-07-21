@@ -19,8 +19,10 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         # Search through templates for the template
         matches = wikicode.filter_templates(matches = template)
         
-        properties = []
+        properties = {}
         if len(matches) >= 1:
+            if len(matches >= 2):
+                print('JFIAOIJEIOSEFJOAJSEIFJAOSEJFOIASJEFIJASEOIFOASIEFJOIASEJFIASJEFOAJSEFEASOJAFASEJFAS')
             # Extract information from infobox
             for match in matches:
                 properties += {param.name.strip_code().strip(): param.value.strip_code().strip() 
