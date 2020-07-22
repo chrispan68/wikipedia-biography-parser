@@ -10,8 +10,10 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         self._current_tag = None
         self._people = []
 
+    def get_summary(self, full_text):
+        return full_text[:full_text.index(" ==")]
     def get_birth_year(self, wiki_year_string):
-        for i in range(len(wiki_year_string) - 4):
+        for i in range(len(wiki_year_string) - 4, -1, -1):
             if wiki_year_string[i:i+4].isdigit():
                 #print(wiki_year_string[i:i+4])
                 return wiki_year_string[i:i+4]
@@ -33,7 +35,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
                     if param.name.strip_code().strip() == 'birth_date':
                         birth_year = self.get_birth_year(str(param.value))
             
-            raw_text = wikicode.strip_code().strip()
+            summary = self.get_summary(wikicode.strip_code().strip())
             return (title, birth_year, raw_text)
 
     def characters(self, content):
