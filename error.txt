@@ -83,3 +83,2025 @@
  |parents                   = Euphorion (father) 
  |relatives                 = {{unbulleted list| [[Cynaegirus]] (brother) | [[Ameinias of Athens|Ameinias]] (brother) |  Philopatho (sister) | [[Philocles]] (nephew)}} 
  }}
+========================================================
+== Archduke Charles, Duke of Teschen, EMPTY==
+EMPTY
+{{stack 
+ |{{Infobox royalty 
+ | name         = Archduke Charles 
+ | title        = [[Duke of Teschen]] 
+ | image        = File:Anton Einsle - Erherzog Carl von Österreich.jpg 
+ | caption      = Portrait by [[Anton Einsle]] 
+ {{Infobox royalty 
+ | embed        = yes 
+ | birth_date   = 5 September 1771 
+ | birth_place  = [[Florence]], [[Grand Duchy of Tuscany]] 
+ | death_date   = {{Death date and age|1847|4|30|1771|9|5|df=y}} 
+ | death_place  = [[Vienna]], [[Austrian Empire]] 
+ | burial_date  = 
+ | burial_place = [[Imperial Crypt]], Vienna 
+ | spouse       = [[Henrietta of Nassau-Weilburg]] 
+ | issue        = {{plainlist| 
+ * [[Maria Theresa of Austria (1816–1867)|Maria Theresa, Queen of the Two Sicilies]] 
+ * [[Archduke Albert, Duke of Teschen]] 
+ * [[Archduke Karl Ferdinand of Austria|Archduke Karl Ferdinand]] 
+ * [[Archduke Frederick Ferdinand of Austria|Archduke Frederick Ferdinand]] 
+ * [[Archduchess Maria Karoline of Austria (1825-1915)|Archduchess Maria Karoline]] 
+ * [[Archduke Wilhelm Franz of Austria|Archduke Wilhelm Franz]] 
+ }} 
+ | issue-link   = #Issue 
+ | full name    = Karl Ludwig Johann Josef Lorenz 
+ | house        = [[House of Habsburg-Lorraine|Habsburg-Lorraine]] 
+ | father       = [[Leopold II, Holy Roman Emperor]] 
+ | mother       = [[Maria Luisa of Spain]] 
+ | religion     = [[Roman Catholicism]] 
+ }} < !-- end of infobox royalty -- > 
+ {{Infobox officeholder 
+ | embed        = yes 
+ | allegiance   = {{flag|Holy Roman Empire}} < br / > {{flag|Austrian Empire}} 
+ | branch       = [[Imperial Army (Holy Roman Empire)|Imperial Army]] < br / > [[Imperial and Royal Army during the Napoleonic Wars|Imperial and Royal Army]] 
+ | serviceyears = 1792–1809 
+ | rank         = [[Lieutenant Field Marshal]] 
+ | commands     = [[Imperial and Royal Army during the Napoleonic Wars|Imperial and Royal Army]] 
+ | battles      = {{ubl|[[French Revolutionary Wars]]|{{*}}[[Battle of Jemappes]]|{{*}}[[Battle of Neerwinden (1793)|Battle of Neerwinden]]|{{*}}[[Battle of Fleurus (1794)|Battle of Fleurus]]|{{*}}[[Battle of Aldenhoven (1793)|Battle of Aldenhoven]]|{{*}}[[Battle of Wetzlar (1796)]]|{{*}}[[Battle of Kehl (1796)]]|{{*}}[[Battle of Amberg]]|{{*}}[[Battle of Würzburg]]|{{*}}[[Battle of Limburg (1796)]]|{{*}}[[Battle of Emmendingen]]|{{*}}[[Battle of Schliengen]]|{{*}}[[Battle of Ostrach]]|{{*}}[[Battle of Stockach (1799)|Battle of Stockach]]|{{*}}[[First Battle of Zurich]]|{{*}}[[Battle of Mannheim (1799)]]|{{*}}[[Battle of Hohenlinden]]|[[Napoleonic Wars]]|{{*}}[[Battle of Caldiero (1805)|Battle of Caldiero]]|{{*}}[[Battle of Abensberg]]|{{*}}[[Battle of Eckmühl]]|{{*}}[[Battle of Aspern-Essling]]|{{*}}[[Battle of Wagram]]}} 
+ }} < !-- end of infobox officeholder -- > 
+ }} < !-- end of infobox person -- > 
+ }}
+========================================================
+== Bruce Perens, 2002==
+ {{birth based on age as of date|44|2002|9|9}} < ref name= " out at hp " / > 
+ 
+{{Infobox person 
+ | name          = Bruce Perens 
+ | image         = 3541705843 f896546bec o crop.jpg 
+ | image_size    = 300px 
+ | caption       = Bruce Perens in 2009 
+ | birth_name    = 
+ | birth_date    = {{birth based on age as of date|44|2002|9|9}} < ref name= " out at hp " / > 
+ | birth_place   = 
+ | death_date    =  < !-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -- > 
+ | death_place   = 
+ | body_discovered = 
+ | death_cause   = 
+ | resting_place = 
+ | resting_place_coordinates =  < !-- {{coord|LAT|LONG|display=inline,title}} -- > 
+ | residence     = 
+ | nationality   = 
+ | ethnicity     = 
+ | citizenship   = 
+ | other_names   = 
+ | known_for     = [[Open Source Initiative]], [[BusyBox]] 
+ | education     = 
+ | alma_mater    = 
+ | employer      = 
+ | occupation    = [[Venture capital]]ist, [[Programmer|Computer Programmer]] 
+ | years_active  = 
+ | home_town     = 
+ | salary        = 
+ | networth      = 
+ | height        = 
+ | weight        = 
+ | title         = 
+ | term          = 
+ | predecessor   = 
+ | successor     = 
+ | party         = 
+ | opponents     = 
+ | boards        = 
+ | religion      = 
+ | spouse        = Valerie < ref name= " spoke out "  / > < ref name= " meet the perens "  / > 
+ | partner       = 
+ | children      = Stanley (son) < ref name= " spoke out "  / > < ref name= " meet the perens "  / > 
+ | parents       = 
+ | relations     = 
+ | callsign      = K6BP 
+ | awards        = 
+ | signature     = 
+ | website       = {{URL|https://perens.com}} 
+ }}
+========================================================
+== Benjamin, ERROR==
+ 11 [[Cheshvan]] 
+ 
+{{Infobox person 
+ | name               = Benjamin 
+ | image               = Benjamin LACMA M.88.91.296L.jpg 
+ | native_name        = בִּנְיָמִין 
+ | native_name_lang   = he 
+ | pronunciation      = Biniamin 
+ | birth_date         = 11 [[Cheshvan]] 
+ | father            =  [[Jacob]] 
+ | mother            =  [[Rachel]] 
+ | children           =   
+ Bela (son) < br > 
+ Beker (son) < br > 
+ Ashbel (son) < br > 
+ Gera (son) < br > 
+ Naaman (son) < br > 
+ Ehi (son) < br > 
+ Rosh (son) < br > 
+ Muppim (son) < br > 
+ Huppim (son) < br > 
+ Ard (son) < br > 
+ < ref > Genesis 46:21 < /ref > 
+ | relatives =  
+ [[Reuben (son of Jacob)|Reuben]] (half brother) < br > 
+ [[Simeon (son of Jacob)|Simeon]] (half brother) < br > 
+ [[Levi]] (half brother) < br > 
+ [[Judah (son of Jacob)|Judah]] (half brother) < br > 
+ [[Issachar]] (half brother) < br > 
+ [[Zebulun]] (half brother) < br > 
+ [[Dan (son of Jacob)|Dan]] (half brother) < br > 
+ [[Naphtali]] (half brother) < br > 
+ [[Gad (son of Jacob)|Gad]] (half brother) < br > 
+ [[Asher]] (half brother) < br > 
+ [[Joseph (Genesis)|Joseph]] (brother) < br > 
+ [[Dinah]] (half sister) 
+ }}
+========================================================
+== Boudica, ERROR==
+ 
+ 
+{{Infobox person 
+ |image = Boadicea Haranguing the Britons (called Boudicca, or Boadicea) by John Opie.jpg 
+ |image_size = 
+ |caption = Queen Boudica in [[John Opie]]'s painting ''Boadicea Haranguing the Britons'' 
+ |birth_date = 
+ |birth_place = [[Roman Britain|Britannia]] 
+ |death_date = {{Circa|60}} or 61 AD 
+ |other_names = Boudicea, Boadicea, {{lang|cy|Buddug}} 
+ |occupation = Queen of the [[Iceni]] 
+ |spouse = [[Prasutagus]] 
+ }}
+========================================================
+== Bob Young (businessman), 2005==
+ {{Birth based on age as of date|51|2005|10|22}} < ref > {{Cite web|url=https://www.theglobeandmail.com/report-on-business/bob-young-hangs-up-red-hat/article1130291/|title=Bob Young hangs up red hat|via=The Globe and Mail}} < /ref > 
+ 
+{{Infobox person 
+ | name               = Bob Young 
+ | image              = File:Bob Young Ticats 2010.jpg 
+ | image_size         = 200 
+ | alt                =  
+ | caption            =  
+ | birth_name         =  
+ | birth_date         = {{Birth based on age as of date|51|2005|10|22}} < ref > {{Cite web|url=https://www.theglobeandmail.com/report-on-business/bob-young-hangs-up-red-hat/article1130291/|title=Bob Young hangs up red hat|via=The Globe and Mail}} < /ref > 
+ | birth_place        = [[Hamilton, Ontario]], Canada 
+ | nationality        = [[Canadians|Canadian]] 
+ | other_names        =  
+ | education          = [[University of Toronto]] 
+ | occupation         = Businessman, entrepreneur 
+ | years_active       = 1984-present 
+ | known_for          = Founder of [[Red Hat|Red Hat, Inc.]] < br/ > Owns the [[Forge FC]] < br/ > Owns the [[Hamilton Tiger-Cats]] 
+ | boards             =  
+ }}
+========================================================
+== Cicero, ERROR==
+ 3 January 106 BC < !--THIS ARTICLE USES THE BC/AD ERA CONVENTION THROUGHOUT; PLEASE READ WP:ERA AND DISCUSS ON CICERO'S TALK PAGE BEFORE CHANGING-- > 
+ 
+{{Infobox person 
+ | name          = Marcus Tullius Cicero 
+ | image         = Cicero - Musei Capitolini.JPG 
+ | image_upright = 1.15 
+ | alt           = White marble bust 
+ | caption       = First-century AD bust of Cicero in the [[Capitoline Museums]], Rome 
+ | birth_date    = 3 January 106 BC < !--THIS ARTICLE USES THE BC/AD ERA CONVENTION THROUGHOUT; PLEASE READ WP:ERA AND DISCUSS ON CICERO'S TALK PAGE BEFORE CHANGING-- > 
+ | birth_place   = [[Arpino|Arpinum]], [[Roman Italy|Italy]], [[Roman Republic]] 
+ | death_date    = 7 December 43 BC (aged 63) 
+ | death_place   = [[Formia]], Italy 
+ | death_cause   = [[Decapitation|Beheaded]] by order of the [[Second Triumvirate]] 
+ | occupation    = Statesman, [[lawyer]], writer, [[orator]] 
+ | works         = [[Writings of Cicero]] 
+ | office        = {{ubl|[[Roman consul|Consul of Rome]] (63 BC)|[[Roman governor|Governor]] of [[Cilicia (Roman province)|Cilicia]] (51–50 BC)}} 
+ | party         = [[Optimates]] 
+ | opponents     = {{ubl|[[Mark Antony]]|[[Publius Clodius Pulcher]]}} 
+ | spouse        = [[Terentia]] 
+ | children      = [[Tullia (daughter of Cicero)|Tullia]]  &  [[Cicero Minor]] 
+ | relatives     = [[Quintus Tullius Cicero]] (brother) 
+ | module        = {{Infobox writer 
+ | embed         = yes 
+ | subjects      = {{nowrap|Politics, law, philosophy, [[rhetoric]]}} 
+ | movement      = {{ubl|[[Classical Latin#Republican|Golden Age Latin]]|[[Eclectic philosophy]]}} 
+ | notableworks  = {{ubl|'''Orations:'''|''[[In Verrem]]''|''[[In Catilinam I–IV]]''|'''Philosophy:'''|''[[De Oratore]]''|''[[De re publica]]''|''[[De Natura Deorum]]''|''[[De Officiis]]''}} 
+ }} 
+ | module2       = {{Infobox philosopher|embed=yes 
+ | notable_works     = ''Academica'', ''[[Tusculanae Quaestiones]]'', ''[[De Natura Deorum ]]'', ''[[De Divinatione]]'', ''[[De Fato]]'' ''De Finibus Bonorum et Malorum'' 
+ | era               = [[Hellenistic philosophy]] 
+ | region            = [[Western Philosophy]] 
+ | school_tradition  = [[Academic Skepticism]] < ref > https://www.iep.utm.edu/cicero-a/ < /ref > 
+ | main_interests    = [[Ethics]], [[Epistemology]], [[Theology]] 
+ | influences        = [[Socrates]], [[Plato]], [[Philo of Larissa]] 
+ | influenced        = Virtually all of subsequent [[Western philosophy]]}} 
+ }}
+========================================================
+== Draco (lawgiver), ERROR==
+ c. 650 BC 
+ 
+{{Infobox person 
+ | name               = Draco 
+ | image              = Carving_of_Draco_Lawgiver_in_US_Supreme_Court_library.jpg 
+ | image_size         =  
+ | caption            = 
+ | alt                =  
+ | birth_date         = c. 650 BC 
+ | birth_place        =  
+ | death_date         = c. 600 BC (age c. 50) 
+ | death_place        = [[Aegina]] 
+ | other_names        =  
+ | known_for          = [[Draconian constitution]] 
+ | nationality        = [[Athens]], [[Ancient Greece]] 
+ | occupation         = [[Legislator]] 
+ }}
+========================================================
+== D. B. Cooper, ERROR==
+  
+ 
+{{Infobox person 
+ | name               = Dan  " D. B. "  Cooper 
+ | image              = DBCooper.jpg 
+ | image_size         = 220 
+ | caption            = A 1972 FBI composite drawing of < br / > D. & nbsp;B. Cooper 
+ | birth_date         =  
+ | birth_place        =  
+ | death_date         =  
+ | death_place        =  
+ | disappeared_date   = {{disappeared date|1971|11|24}} ({{Years or months ago|1971|12}}) 
+ | status             = Unknown 
+ | other_names        = D. B. Cooper 
+ | known_for          = Hijacking a Boeing 727 on November 24, 1971, and parachuting from the plane mid-flight; has never been identified or captured. 
+ | spouse             =  
+ }}
+========================================================
+== Euripides, ERROR==
+ c. 480 BC 
+  
+{{Infobox person 
+  | name             = Euripides 
+  | image            = Euripides Pio-Clementino Inv302.jpg 
+  | caption          = Bust of Euripides: < br / > Roman marble copy of a fourth-century BC Greek original ([[Museo Pio-Clementino]], Rome) 
+  | birth_date       = c. 480 BC 
+  | birth_place      = [[Salamis Island|Salamis]] 
+  | death_date       = c. 406 BC (aged approximately 74) 
+  | death_place      = [[Macedon]]ia 
+  | occupation       = Playwright 
+  | spouse           = Melite  < br / > Choerine 
+  | parents          = Mnesarchus  < br / > Cleito 
+  | children         = 
+  | notable_works    = {{plainlist| 
+ * ''[[Medea (play)|Medea]]'', 431 BC 
+ * ''[[Hippolytus (play)|Hippolytus]]'', 428 BC 
+ * ''[[Electra (Euripides)|Electra]]'', c. 420 BC 
+ * ''[[The Trojan Women]]'', c. 415 BC 
+ * ''[[The Bacchae|Bacchae]]'', 405 BC}} 
+ }}
+========================================================
+== Elijah, EMPTY==
+EMPTY
+{{Infobox person 
+ |name     = Elijah 
+ |image    = Elijah_Icon_Sinai_c1200.jpg 
+ |imagesize= 220px 
+ |caption  = An icon of Elijah from [[Saint Catherine's Monastery]], [[Mount Sinai]] 
+ |birth_place= 
+ |death_date=   
+ |death_place=   
+ }}
+========================================================
+== Galen, ERROR==
+ September 129 AD 
+ 
+{{Infobox person 
+ | name  = Galen 
+ 
+ | image = Galenus.jpg 
+ | caption = Eighteenth-century portrait by Georg Paul Busch 
+ | birth_date  = September 129 AD 
+ | birth_place = [[Pergamon]], [[Asia (Roman province)|Asia]], [[Roman Empire]] 
+ | death_date  = {{c.|lk=no}} 210 AD 
+ | death_place = [[Rome]], Roman Empire 
+ | nationality = Greek 
+ | occupation  = [[Physician]] 
+ }}
+========================================================
+== Gerald Schroeder, ERROR==
+  
+ 
+{{Infobox person 
+ | name               = Gerald L. Schroeder 
+ | image              = Portrait of Gerald Schroeder.jpg 
+ | image_size         = 
+ | alt                =  
+ | caption            = Schroeder by [[Michael Netzer]] 
+ | birth_date         =  
+ | birth_place        =  
+ | death_date         =  
+ | death_place        =  
+ | citizenship        =  
+ | nationality        =  
+ | fields             =  
+ | alma_mater         = [[Massachusetts Institute of Technology]] 
+ | doctoral_advisor   =  
+ | academic_advisors  =  
+ | doctoral_students  =  
+ | notable_students   =  
+ | known_for          =  
+ | author_abbrev_bot  =  
+ | author_abbrev_zoo  =  
+ | influences         =  
+ | influenced         =  
+ | awards             =  
+ | signature          =  
+ | signature_alt      =  
+ | footnotes          =  
+ | website            = http://geraldschroeder.com/ 
+ }}
+========================================================
+== Hippocrates, ERROR==
+ {{c.|lk=no}} 460 BC 
+ 
+{{Infobox person 
+ | name  = Hippocrates of Kos 
+ | pronunciation = 
+ | image = Hippocrates.jpg 
+ | caption = A conventionalized image in a Roman  " portrait "  bust (19th-century engraving) 
+ | 
+ | native_name_lang = Greek 
+ | birth_date  = {{c.|lk=no}} 460 BC 
+ | birth_place = [[Kos]], [[Ancient Greece]] 
+ | death_date  = {{c.|lk=no}} 370 BC < br > (aged c. 90) 
+ | death_place = [[Larissa]], Ancient Greece 
+ | occupation  = [[Physician]] 
+ | era   = [[Classical Greece]] 
+ | title  = The Father of Western Medicine 
+ }}
+========================================================
+== Herodotus, ERROR==
+ {{circa|484 & nbsp;BC}} 
+  
+{{Infobox person 
+  | name=Herodotus 
+  |native_name = Ἡρόδοτος 
+  |native_name_lang = Greek 
+  | image = Marble bust of Herodotos MET DT11742.jpg 
+  | caption = A Roman copy (2nd century AD) of a Greek [[Bust (sculpture)|bust]] of Herodotus from the first half of the 4th century BC 
+  | birth_date = {{circa|484 & nbsp;BC}} 
+  | birth_place = [[Halicarnassus]], [[Caria]], [[Anatolia|Asia Minor]], [[Achaemenid Empire|Persian Empire]] 
+  | death_date = {{circa|425 & nbsp;BC}} (aged approximately 60) 
+  | death_place = [[Thurii]], [[Calabria]] or [[Pella]], [[Macedon]] 
+   | occupation = Historian 
+  | spouse = 
+  | parents = {{unbulleted list| Lyxes (father) | Dryotus (mother)}} 
+  | relatives = {{unbulleted list| Theodorus (brother) | [[Panyassis]] (uncle or cousin)}} 
+  | notable_works = [[Histories (Herodotus)|The Histories]] 
+ }}
+========================================================
+== Hipparchus, ERROR==
+ {{c.|lk=no|190}} & nbsp;{{sc|bc}} 
+ 
+{{Infobox person 
+ | name = Hipparchus 
+ | image = Hipparchos 1.jpeg 
+ | caption = 
+ | birth_date = {{c.|lk=no|190}} & nbsp;{{sc|bc}} 
+ | birth_place = [[Nicaea]], [[Kingdom of Bithynia]] 
+ | death_date = {{c.|lk=no|120}} & nbsp;{{sc|bc}} (around age 70) 
+ | death_place = [[Rhodes]], [[Roman Republic]] 
+ | education = 
+ | occupation = {{hlist |[[Astronomer]] |[[Mathematician]] |[[Geographer]]}} 
+ | religion = 
+ }}
+========================================================
+== Imhotep, EMPTY==
+EMPTY
+{{Infobox person 
+ | name               = Imhotep 
+ | image              = Imhotep, donated by Padisu MET DP164134.jpg 
+ | native_name        = {{lang-egy|Jj m ḥtp}} 
+ | burial_place       = [[Saqqara]] (probable) 
+ | occupation         = chancellor to the [[pharaoh]] [[Djoser]] and [[High Priest of Ra]] 
+ | years_active       = {{circa|[[27th century BC]]}} 
+ | known_for          = architect of [[Pyramid of Djoser|Djoser's step pyramid]] (probable) 
+ }}
+========================================================
+== Jonathan Swift, EMPTY==
+EMPTY
+{{Infobox person|child=yes 
+ | burial_place    = [[St Patrick's Cathedral, Dublin]]}}
+========================================================
+== Coen brothers, EMPTY==
+EMPTY
+{{Infobox person 
+ | name         = Joel and Ethan Coen 
+ | image        = Coen brothers Cannes 2015 2 (CROPPED).jpg 
+ | caption      = Ethan (left) and Joel Coen, at the [[2015 Cannes Film Festival]] 
+ | birth_name   = Joel David Coen < br / > {{birth date and age|1954|11|29}} < hr / > Ethan Jesse Coen < br / > {{birth date and age|1957|9|21}} 
+ | birth_place  = [[St. Louis Park, Minnesota]], U.S. (both) 
+ | residence    = [[New York City]], New York, U.S. 
+ | years_active = 1984–present 
+ | other_names  = {{plain list| 
+ * the Coen brothers 
+ * Roderick Jaynes 
+ * Mike Zoss 
+ }} 
+ | occupation   = [[Film director]]s, [[Film producer|producers]], [[screenwriter]]s, [[Film editing|film editors]] 
+ | website      =  
+ | spouse = '''Joel:''' [[Frances McDormand]] (m. 1984) < hr / > '''Ethan:''' [[Tricia Cooke]] (m. 1990) 
+ | children = '''Joel:''' 1 < hr / > '''Ethan:''' 2 
+ }}
+========================================================
+== Julius Caesar, ERROR==
+ 12 July 100 BC{{efn|Dates in this article are given in the [[Roman calendar]] before 1 January 45 BC, and in the Julian calendar as observed in Rome on and after that date. There is some dispute over the year of Caesar's birth. Some scholars have made a case for 101 or 102 & nbsp;BC as the year of his birth, based on the dates that he held certain magistracies, but scholarly consensus favors 100 & nbsp;BC. In a 44 BC law it was stated that Caesar was born on 12 July, a date followed by most subsequent writers. It was alleged in the third century AD that the [[Second Triumvirate]] had passed a law changing the date from 13 July to the day before, though evidence for this is lacking. < ref > Badian in Griffin (ed.) [https://books.google.com/books?id=gzOXLGbIIYwC & pg=PA16 p.16] < /ref > }} 
+ 
+{{Infobox person 
+ | name         = Gaius Julius Caesar 
+ | image        = Retrato de Julio César (26724093101) (cropped).jpg 
+ | caption      = The [[Tusculum portrait]], possibly the only surviving sculpture of Caesar made during his lifetime. Archaeological Museum, [[Turin]], [[Italy]] 
+ | birth_date   = 12 July 100 BC{{efn|Dates in this article are given in the [[Roman calendar]] before 1 January 45 BC, and in the Julian calendar as observed in Rome on and after that date. There is some dispute over the year of Caesar's birth. Some scholars have made a case for 101 or 102 & nbsp;BC as the year of his birth, based on the dates that he held certain magistracies, but scholarly consensus favors 100 & nbsp;BC. In a 44 BC law it was stated that Caesar was born on 12 July, a date followed by most subsequent writers. It was alleged in the third century AD that the [[Second Triumvirate]] had passed a law changing the date from 13 July to the day before, though evidence for this is lacking. < ref > Badian in Griffin (ed.) [https://books.google.com/books?id=gzOXLGbIIYwC & pg=PA16 p.16] < /ref > }} 
+ | birth_place  = [[Rome]], [[Roman Italy|Italia]], [[Roman Republic]] 
+ | death_date   = [[Ides of March|15 March]] 44 BC{{efn|After Caesar's death, the leap years were not inserted according to his intent, and there is uncertainty about when leap years were observed between 45 & nbsp;BC and AD & nbsp;4 inclusive; the dates in this article between 45 & nbsp;BC and AD & nbsp;4 inclusive are those observed in [[Rome]] and there is an uncertainty of about a day as to where those dates would be on the [[proleptic Julian calendar]]. < ref > Blackburn, B and Holford-Strevens, L. (1999 corrected 2003). ''The Oxford Companion to the Year''. Oxford University Press. p. 671. {{ISBN|978-0-19-214231-3}} < /ref > }} (aged 55) 
+ | death_place  = [[Theatre of Pompey]], Rome 
+ | nationality = Roman 
+ | death_cause  = [[Assassination of Julius Caesar|Assassination]] ([[stab wounds]]) 
+ | resting_place= [[Temple of Caesar]], Rome 
+ | office        = [[Roman dictator|Dictator]] < br > (29 October 49 – 15 March 44 BC) < br > [[Roman consul|Consul]] < br > (59, 48, 46, 45, 44 BC) 
+ | party        = [[Populares]] 
+ | spouse       = {{plainlist| 
+ * [[Cossutia]] (disputed) 
+ * [[Cornelia (wife of Caesar)|Cornelia]] (84–69 BC; her death) 
+ * [[Pompeia (wife of Julius Caesar)|Pompeia]] (67–61 BC; divorced) 
+ * [[Calpurnia (wife of Caesar)|Calpurnia]] (59–44 BC; his death) 
+ }} 
+ | children     = {{plainlist| 
+ * [[Julia (daughter of Julius Caesar)|Julia]] 
+ * [[Caesarion]] 
+ * [[Augustus]] (adoptive) 
+ * [[Decimus Junius Brutus Albinus| Decimus Brutus]] or [[Marcus Junius Brutus | Marcus Brutus]] (disputed) 
+ }} 
+ | parents      = [[Gaius Julius Caesar (proconsul)|Gaius Julius Caesar]] and [[Aurelia (mother of Caesar)|Aurelia]] 
+ }}
+========================================================
+== Jonah, ERROR==
+9th century [[Common Era|BCE]] 
+ 
+{{infobox person|child=yes| 
+ |parents= Rivka, [[Amittai]]}}
+========================================================
+== Boulting brothers, EMPTY==
+EMPTY
+{{Infobox person 
+ | name               = John and Roy Boulting 
+ | image              = Roy-and-john-boulting1952.jpg 
+ | caption            = Roy (left) and John (right) Boulting, in 1952 
+ | birth_name         = Joseph Edward John Boulting < br/ > {{birth date|df=yes|1913|12|21}} < hr > Alfred Fitzroy Clarence Boulting < br/ > {{birth date|df=yes|1913|12|21}} 
+ | birth_place        = [[Bray, Berkshire]], England 
+ | death_date         = {{small|'''John:'''}} {{death date and age|df=yes|1985|6|17|1913|12|21}} < br > [[Sunningdale]], Berkshire, England < hr > {{small|'''Roy:'''}} {{death date and age|df=yes|2001|11|5|1913|12|21}} < br/ > [[Eynsham]], [[Oxfordshire]], England 
+ | other_names        = {{small|'''Collectively:'''}} Boulting brothers < hr > {{small|'''John:'''}} John Edward Boulting < hr > {{small|'''Roy:'''}}  " Roy "  Alfred Clarence Boulting 
+ | occupation         = [[Film producer]]s and [[film director|director]]s 
+ | known_for          =  
+ | spouse             = {{small|'''John:'''}}{{plainlist | 
+ *{{marriage|Veronica Davidson|1938|reason=divorced}} 
+ *{{marriage|Jacqueline Duncan|1952|1966|reason=divorced}} < ref > {{cite news|title=Mrs. John Boulting Gets Decree|work=[[The Times]]|date=21 June 1966|page=16}} < /ref > 
+ *{{marriage|Ann Marion|1972|reason=divorced}} 
+ *{{marriage|Anne Josephine|1977| < !--Year omitted when marriage ends by death of article subject-- > }} < ref name=odnb/ > 
+ }} < hr > 
+ {{small|'''Roy:'''}}{{plainlist | 
+ *{{marriage|Angela Warnock|1936|1941|reason=divorced}} 
+ *{{marriage|Jean Capon|1942|1951|reason=divorced}} 
+ *{{marriage|Enid Munnik|1951|1964|reason=divorced}} 
+ *{{marriage|[[Hayley Mills]]|1971|1977|reason=divorced}} 
+ *{{marriage|Sandra Spencer|1978|1984|reason=divorced}} < ref name=odnb/ > 
+ }} 
+ | partner            = {{small|'''Roy:'''}} Victoria Vaughan  < small > (mid-1960s) < /small > < ref name=odnb/ > 
+ | children           = {{small|'''John:'''}} 6 < hr > {{small|'''Roy:'''}} 7, including [[Crispian Mills]] 
+ | parents            =  
+ | website            =  
+ | footnotes          =  
+ | relations          =  
+ }}
+========================================================
+== John Keats, EMPTY==
+EMPTY
+{{Infobox person |child=yes| | death_cause = [[Tuberculosis]]}}
+========================================================
+== Japheth, ERROR==
+  
+  
+{{Infobox person 
+  | name             = Japhet (Biblical character) 
+  | alt              =  
+  | image            = Japheth.jpg 
+  | caption          =  " Japhet third son of Noah " , as depicted in ''[[Promptuarii Iconum Insigniorum]]'' (c. 1553) 
+  | birth_date       =  
+  | birth_place      =  
+  | death_date       =  
+  | death_place      =  
+  | nationality      =  
+  | other_names      =  
+  | known_for        =  
+  | occupation       =  
+  | parents          = [[Noah]] 
+  | children         = [[Gomer]] < br / > [[Magog (Bible)|Magog]] < br / > [[Madai]] < br / > [[Javan]] < br / > [[Tubal]] < br / > [[Meshech]] < br / > [[Tiras]] 
+ }}
+========================================================
+== John Stauber, ERROR==
+   < !-- {{birth date and age|YYYY|MM|DD}} for living people. For people who have died, use {{Birth date|YYYY|MM|DD}}. -- > 
+ 
+{{Infobox person 
+ | name          = John Stauber 
+ | image         =  
+ | alt           =  
+ | caption       =  
+ | birth_name    =  
+ | birth_date    =   < !-- {{birth date and age|YYYY|MM|DD}} for living people. For people who have died, use {{Birth date|YYYY|MM|DD}}. -- > 
+ | birth_place   =  
+ | death_date    =  < !-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -- > 
+ | death_place   =  
+ | nationality   = Uganda 
+ | other_names   = Tebogo 
+ | occupation    = Writer 
+ | years_active  =  
+ | known_for     =  
+ | notable_works =  
+ }}
+========================================================
+== Konrad Emil Bloch, EMPTY==
+EMPTY
+{{Infobox person/Wikidata | fetchwikidata=ALL | onlysourced=yes|dateformat=dmy|awards=[[Nobel Prize in Physiology or Medicine]] in 1964}}
+========================================================
+== Lagâri Hasan Çelebi, ERROR==
+   
+ 
+{{Infobox person 
+ |name          = Lagâri Hasan Çelebi 
+ |image         = Lagari.jpg 
+ |caption       = Lagâri Hasan Çelebi's rocket flight depicted in a 17th-century engraving 
+ |birth_name    =  
+ |birth_date    =   
+ |birth_place   =  
+ |death_date    =  
+ |death_place   =  
+ |death_cause   =  
+ |resting_place =  
+ |resting_place_coordinates =  
+ |residence     =  
+ |nationality   = [[Ottoman Empire|Ottoman]]  
+ |other_names   =  
+ |known_for     = Manned rocket flight 
+ |education     =  
+ |employer      =  
+ |occupation    = Engineer 
+ |home_town     =  
+ |title         =  
+ |salary        =  
+ |height        =  
+ |weight        =  
+ |spouse        =  
+ |children      =  
+ |parents       =  
+ |relatives     = [[Hezârfen Ahmed Çelebi]] (brother) 
+ }}
+========================================================
+== Lilith, EMPTY==
+EMPTY
+{{Infobox person 
+ | name               = Lilith 
+ | image              = Lilith (John Collier painting).jpg 
+ | caption            = ''[[Lilith (painting)|Lilith]]'' (1887) by [[John Collier (painter)|John Collier]] in [[Atkinson Art Gallery and Library|Atkinson Art Gallery]], Merseyside, England 
+ | imagesize          = 250px 
+ | birth_place        = [[Garden of Eden]] 
+ }}
+========================================================
+== Muhammad, ERROR==
+  {{circa|570|df=y}} 
+  
+{{Infobox person 
+  | honorific_prefix = [[Prophets and messengers in Islam|Islamic prophet]] 
+  | name = {{large|Muhammad}} < br / > {{lang|ar|{{nobold|مُحَمَّد}}}} 
+  | honorific_suffix = 
+  | image= Dark vignette Al-Masjid AL-Nabawi Door800x600x300.jpg 
+  | caption =  " Muhammad the Messenger of God " < br / > inscribed on the gates of the [[Al-Masjid an-Nabawi|Prophet's Mosque]] in Medina 
+  | birth_name = Muḥammad ibn ʿAbdullāh  < br / >  ({{lang-ar|مُحَمَّد ٱبْن عَبْد ٱلله}}) 
+  | birth_date =  {{circa|570|df=y}} 
+  | birth_place = {{longitem|[[Mecca]], [[Hejaz]], [[Arabian Peninsula|Arabia]]}} 
+  | death_date = {{death date and age|632|6|8|570|df=y}} 
+  | death_place = {{longitem|[[Medina]], Hejaz, Arabia}} 
+  | resting_place = {{longitem|style=white-space; |[[Green Dome]] at [[al-Masjid an-Nabawi]], Medina, Arabia}} 
+  | resting_place_coordinates = {{coord|24|28|03|N|39|36|41|E|type:landmark_scale:5000_region:SA|display=title|name=Green Dome}} 
+  | other_names = {{unbulleted list|style=line-height:1.3em; |''Abu al-Qasim'' ([[Kunya (Arabic)|nickname]]) |''Rasūl Allāh'' (Messenger of God) |''(see [[Names and titles of Muhammad]])''}} 
+  | years_active = {{longitem | style = white-space:nowrap; |583–609 & nbsp;CE as merchant < br / > 609–632 & nbsp;CE as religious leader}} 
+  | notable_works = [[Constitution of Medina]] 
+  | successor = [[Succession to Muhammad]] 
+  | spouse = {{aligned table|style=line-height:120%;|leftright=y|row1header=y|nowrap1=y|nowrap2=y 
+            | [[Muhammad's wives]]    | Married 
+            | [[Khadija bint Khuwaylid]]    |595–619 
+            | [[Sawda bint Zamʿa]]          |619–632 
+            | [[Aisha|Aisha bint Abi Bakr]] |c. 623–632 
+            | [[Hafsa bint Umar]]           |624–632 
+            | [[Zaynab bint Khuzayma]]      |625–627 
+            | [[Umm Salama|Hind bint Abi Umayya]]|625–632 
+            | [[Zaynab bint Jahsh]]         |627–632 
+            | [[Juwayriyya bint al-Harith]] |628–632 
+            | [[Umm Habiba|Ramla bint Abi Sufyan]]     |628–632 
+            | [[Rayhana bint Zayd]]         |629–631 
+            | [[Safiyya bint Huyayy]]       |629–632 
+            | [[Maymunah bint al-Harith]]   |630–632 
+            | [[Maria al-Qibtiyya]]         |630–632 
+            }} 
+  | children = ''See'' [[Children of Muhammad]] 
+  | parents = [[Abdallah ibn Abd al-Muttalib]] (father) < br / > [[Aminah|Aminah bint Wahb]] (mother) 
+  | relatives = [[Family tree of Muhammad]], [[Ahl al-Bayt]]{{nbsp|2}}( " Family of the House " ) 
+  | module = {{Infobox Arabic name|embed=yes 
+ | ism = Muhammad 
+ | nasab = Muḥammad ibn [[Abdallah ibn Abd al-Muttalib|Abd Allah]] ibn [[Abd al-Muttalib]] ibn [[Hashim ibn Abd Manaf|Hashim]] ibn [[Abd Manaf ibn Qusai|Abd Manaf]] ibn [[Qusai ibn Kilab|Qusai]] ibn [[Kilab ibn Murrah|Kilab]] 
+ | kunya = Abu [[Qasim ibn Muhammad|al-Qasim]] 
+ | laqab = [[Khatam an-Nabiyyin|Khātam an-Nâbîyīn]] (Seal of the prophets) 
+ }} 
+ | signature = [[File:Muhammad Seal.svg|40px]]  < br / > [[Seal of Muhammad]] 
+ }}
+========================================================
+== Marcel Achard, EMPTY==
+EMPTY
+{{Infobox person/Wikidata 
+ | fetchwikidata=ALL 
+ | dateformat = dmy 
+ }}
+========================================================
+== Moses, EMPTY==
+EMPTY
+{{Infobox person 
+ | name        = Moses 
+ | image       = Philippe de Champaigne - Moses with the Ten Commandments - WGA04717.jpg 
+ | alt         = 
+ | caption     = ''Moses with the Ten Commandments'' by [[Philippe de Champaigne]], 1648 
+ | birth_place = [[Land of Goshen|Goshen]] ([[Lower Egypt]]), [[Ancient Egypt]] 
+ | death_place = [[Mount Nebo (Jordan)|Mount Nebo]], [[Moab]] 
+ | nationality = [[Israelite]] 
+ | known_for   = [[Hebrew Prophets|Prophet]] 
+ | children    = {{Plainlist}} 
+ * [[Gershom]] 
+ * [[Eliezer#The son of Moses|Eliezer]] 
+ {{Endplainlist}} 
+ | parents     = {{Plainlist}} 
+ * [[Amram]] (father) 
+ * [[Jochebed]] (mother) 
+ * [[Pharaoh's daughter (Exodus)|Pharaoh's daughter]] (adoptive mother) 
+ {{Endplainlist}} 
+ | relatives   = {{Plainlist}} 
+ * [[Aaron]] (brother) 
+ * [[Miriam]] (sister) 
+ {{Endplainlist}} 
+ | spouse      = {{Plainlist}} 
+ * [[Zipporah]] / [[Zipporah#Wife_of_Moses|Cushite woman]] < ref > {{cite web |last1=Filler |first1=Elad |title=Moses and the Kushite Woman: Classic Interpretations and Philo's Allegory |url=https://thetorah.com/moses-and-the-kushite-woman-classic-interpretations-and-philos-allegory/ |website=TheTorah.com |accessdate=11 May 2019}} < /ref > 
+ {{Endplainlist}} 
+ }}
+========================================================
+== Mark Antony, ERROR==
+ 14 January 83 BC 
+ 
+{{Infobox person 
+ | name          = Mark Antony 
+ | image         = Marcus Antonius marble bust in the Vatican Museums.jpg 
+ | image_upright = 1.1 
+ | alt           =  < !-- descriptive text for use by speech synthesis (text-to-speech) software -- > 
+ | caption       = Bust of Antony made during the [[Flavian dynasty]] (69—96 AD) 
+ | native_name   = Marcus Antonius 
+ | native_name_lang = la 
+ | birth_date    = 14 January 83 BC 
+ | birth_place   = [[Rome]], [[Roman Italy|Italy]], [[Roman Republic]] 
+ | death_date    = 1 August 30 BC (aged 53) 
+ | death_place   = [[Alexandria]], [[Ptolemaic Egypt]] 
+ | death_cause   = Suicide 
+ | resting_place =  
+ | resting_place_coordinates =  < !-- {{coord|LAT|LONG|type:landmark|display=inline}} -- > 
+ | nationality   = Roman 
+ | occupation    =  
+ | known_for     =  
+ | office        = [[Second Triumvirate|Triumvir]] (43–33 BC) < br > [[Roman consul|Consul]] (44, 34 BC) < br > ''[[Magister equitum]]'' (48 BC) 
+ | party         = [[Populares]] 
+ | opponents     =  
+ | spouse        = {{Aligned table |class=nowrap |fullwidth=on |leftright=on 
+   |style=line-height:1.2em; |col2style=font-size:90%; 
+   | Fadia                   | {{float|(dates unknown)}} 
+   | Antonia Hybrida         | (?–47 BC) 
+   | [[Fulvia]]              | (46–40 BC) 
+   | [[Octavia Minor]]       | (40–32 BC) 
+   | [[Cleopatra]]           | (32–30 BC) 
+  }} 
+ | children      = {{startplainlist}} 
+ * [[Antonia (daughter of Mark Antony)|Antonia Prima]] 
+ * [[Marcus Antonius Antyllus]] 
+ * [[Iullus Antonius]] 
+ * [[Antonia Major]] 
+ * [[Antonia Minor]] 
+ * [[Alexander Helios]] 
+ * [[Cleopatra Selene II]] 
+ * [[Ptolemy Philadelphus (son of Cleopatra)|Ptolemy Philadelphus]] 
+ {{endplainlist}} 
+ | parents       = [[Marcus Antonius Creticus]] and [[Julia (mother of Mark Antony)|Julia]] 
+ | relatives     =  
+ | module        = {{Infobox military person|embed=yes 
+ | allegiance    = [[Julius Caesar]] < br > [[Roman Republic]] 
+ | branch        = [[Roman army]] 
+ | branch_label  = Branch 
+ | serviceyears  = 54–30 BC 
+ | serviceyears_label = Years 
+ | battles       = {{startplainlist}} 
+ * [[Gallic Wars]]  
+ * [[Caesar's Civil War]] 
+ * [[Battle of Forum Gallorum]]  
+ * [[Battle of Mutina]] 
+ * [[Liberators' civil war]] 
+ * [[Antony's Parthian War]] 
+ * [[Battle of Actium]] 
+ * [[Battle of Alexandria (30 BC)|Battle of Alexandria]] 
+ {{endplainlist}} 
+ | awards        =  
+ }} 
+ }}
+========================================================
+== Mohamed Al-Fayed, EMPTY==
+EMPTY
+{{Infobox person 
+ | name         = Mohamed Al-Fayed 
+ | image        = Mohamed Al-Fayed.jpg 
+ | image_size   =  
+ | caption      = Fayed in 2011 
+ | native_name  = {{lang|ar|محمد  شاكر عبد السيد الفايد}} 
+ | birth_name   = Mohamed Fayed 
+ | birth_place  = {{birth date and age|df=29|1933|1|27}} < br / > [[Roshdy]], [[Alexandria]], [[Kingdom of Egypt]] 
+ | nationality  = [[Egyptian nationality law|Egyptian]] < ref name= " Mohamed Shaker Al Fayed - Forbes " > {{cite magazine|url=https://www.forbes.com/profile/mohamed-al-fayed/ |title=Mohamed Al Fayed |magazine=Forbes.com |accessdate=8 January 2017}} < /ref > 
+ | residence    = 
+ | alma_mater   = 
+ | occupation   = Businessman < br > Owner of [[Hôtel Ritz Paris]] < br > Owner of [[75 Rockefeller Plaza]] 
+ | networth     = [[United States dollar|US$]]1.5 billion (2019) < ref name= " Mohamed Shaker Al Fayed - Forbes "  / > 
+ | spouse       = {{marriage|[[Samira Khashoggi]] < br > |1954|1956|end=}} < br / > {{marriage|Heini Wathén < br > |1985}} 
+ | children     = 5, including [[Dodi Fayed|Dodi]] and [[Omar Fayed|Omar]] 
+ | website      = 
+ | footnotes    = 
+ | signature    =  
+ }}
+========================================================
+== Marietta Alboni, EMPTY==
+EMPTY
+{{infobox person/Wikidata | fetchwikidata=ALL | onlysourced = yes |caption = Marietta Alboni ''[[carte de visite]]'' by [[André-Adolphe-Eugène Disdéri]] }}
+========================================================
+== Nagarjuna, ERROR==
+ c. 150 CE 
+ 
+{{Infobox person 
+ | name      = Nāgārjuna 
+ |image     = Nagarjuna at Samye Ling Monastery.JPG 
+ | birth_date  = c. 150 CE 
+ | image_size     = 200px 
+ | caption     = Golden statue of Nāgārjuna at [[Kagyu Samye Ling Monastery and Tibetan Centre|Kagyu Samye Ling Monastery]], [[Scotland]]. 
+ | birth_place = [[South India]] < ref name= " kalupahana " > Kalupahana, David. ''A History of Buddhist Philosophy.'' 1992. p. 160 < /ref > 
+ | death_date  = c. 250 CE 
+ | death_place = India 
+ | known       = Credited with founding the [[Madhyamaka]] school of [[Mahayana|Mahāyāna]] [[Buddhism]] 
+ | occupation  = [[Buddhism|Buddhist]] teacher, monk and philosopher 
+ | spouse         = 
+ | parents        = 
+ |       = 
+ |}}
+========================================================
+== Ötzi, 3345==
+ {{circa}} 3345 BCE 
+ 
+{{Infobox person 
+ | name = 
+ | pronunciation      = {{IPA-de|ˈœtsi|-|De-Oetzi-pronunciation.ogg}} 
+ | image       = OetzitheIceman02.jpg 
+ | image_size  = 300px 
+ | alt=Ötzi the Iceman on a sheet-covered autopsy table 
+ | caption     = 
+ | birth_date  = {{circa}} 3345 BCE 
+ | birth_place = near the present village of [[Feldthurns]] (Velturno), north of [[Bolzano]], [[Italy]] 
+ | death_date  =  {{circa}} 3300 BCE (aged about 45) 
+ | death_place = [[Ötztal Alps]], near Hauslabjoch on the border between Austria and Italy 
+ | other_names = Ötzi the Iceman < br / > [[Similaun]] Man < br / > Man from Hauslabjoch < br / > Hauslabjoch mummy  < br / > Frozen Man < br / > Frozen Fritz < ref name= " Chenoune2005 " > {{cite book|author=Farid Chenoune|title=Carried Away: All About Bags|url=https://books.google.com/books?id=SOI9AQAAIAAJ & q=%22Frozen+Fritz%22 & dq=%22Frozen+Fritz%22|date=15 February 2005|publisher=Harry N. Abrams|isbn=978-0-86565-158-6}} < /ref > < ref name= " ChwaszczaBell1993 " > {{cite book|author1=Joachim Chwaszcza|author2=Brian Bell|title=Italian Alps, South Tyrol|url=https://books.google.com/books?id=kaIdbYw4qtMC & q=%22Frozen+Fritz%22 & dq=%22Frozen+Fritz%22|date=1 April 1993|publisher=Houghton Mifflin|isbn=978-0-395-65772-0}} < /ref > < br / > Tyrolean Iceman < br / > Similaun Man ({{lang-it|Mummia del Similaun}}) 
+ | known_for   = Oldest natural [[mummy]] of a Chalcolithic ([[Chalcolithic|Copper Age]]) European man 
+ | height      = {{convert|1.6|m|ftin|abbr=on}} 
+ | weight      = {{circa}} {{convert|61|kg|lb st|abbr=on}} (when alive) 
+ | website     = [http://www.archaeologiemuseum.it South Tyrol Museum of Archaeology] 
+ | footnotes   = 
+ }}
+========================================================
+== Paul Vixie, ERROR==
+  < !-- {{Birth date|YYYY|MM|DD}} -- > 
+ 
+{{Infobox person 
+ | name        = Paul Vixie 
+ | image       = [[File:Paul Vixie AVAR 2019.jpg|frameless|Paul Vixie giving the keynote presentation at AVAR 2019]] 
+ | alt         = 
+ | caption     = Paul Vixie giving the keynote presentation at AVAR 2019 < ref > [https://www.avar2019.org/keynote AVAR 2019 keynote details] < /ref > 
+ | birth_date  =  < !-- {{Birth date|YYYY|MM|DD}} -- > 
+ | birth_place =  
+ | death_date  =  < !-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -- > 
+ | death_place =  
+ | nationality = [[United States|American]] 
+ | other_names =  
+ | alma_mater  = [[Keio University]] 
+ | occupation  = Founder/CEO of Farsight Security, Inc., < ref > [http://www.farsightsecurity.com Farsight Security] < /ref > < ref > [http://www.linkedin.com/in/paulvixie Paul Vixie's LinkedIN page] < /ref > 
+ | known_for   = [[Internet Systems Consortium|ISC]], [[BIND]], [[Mail Abuse Prevention System|MAPS]], [[Vixie cron]] 
+ }}
+========================================================
+== Pompey, ERROR==
+ 29 September 106 BC 
+ 
+{{Infobox person 
+ | name          = Pompey 
+ | image         = Pompeius Kopenhagen.jpg 
+ | image_upright = 1.15 
+ | alt           = White bust 
+ | caption       = 1st-century AD bust of Pompey, after an original from {{c.}} 55–50 BC < ref > {{cite book |last=Kleiner |date=2010 |first=Fred S. |title=A History of Roman Art |edition=enhanced |publisher=Wadsworth |place=Boston, MA, US |origyear=2007 |p=56 |isbn=978-0-495-90987-3 |url={{googlebooks|r-r0S-z-UxkC|pg=PA56|plainurl=y}} }} < /ref > 
+ | native_name   = Gnaeus Pompeius Magnus 
+ | native_name_lang = la 
+ | birth_date    = 29 September 106 BC 
+ | birth_place   = [[Picenum]], [[Roman Italy|Italy]], [[Roman Republic]] 
+ | death_date    = {{nowrap|28 September 48 BC (aged 57)}} 
+ | death_place   = [[Pelusium]], [[Ptolemaic Egypt]] 
+ | death_cause   = Assassination 
+ | resting_place = [[Albano Laziale]] 
+ | occupation    =  
+ | party         = [[Optimates]] 
+ | organization  = [[First Triumvirate]] 
+ | net_worth     =  < !-- Net worth should be supported with a citation from a reliable source -- > 
+ | office        = [[Roman consul]] (70, 55, 52 BC) < br > [[Roman governor|Governor]] of [[Hispania Ulterior]] (58–55 BC) 
+ | opponents     = [[Julius Caesar]] 
+ | spouse        = [[Antistia]] (86–82 BC, divorced) < br / > [[Aemilia Scaura|Aemilia]] (82–79 BC, her death) < br / > [[Mucia Tertia]] (79–61 BC, divorced) < br / > [[Julia (daughter of Julius Caesar)|Julia]] (59–54 BC, her death) < br / > [[Cornelia Metella]] (52–48 BC, his death) 
+ | partner       =  < !-- (unmarried long-term partner) -- > 
+ | children      = [[Gnaeus Pompeius (son of Pompey the Great)|Gnaeus]], [[Pompeia Magna|Pompeia]], and [[Sextus Pompey|Sextus]] 
+ | parents       = [[Pompeius Strabo]] 
+ | module        = {{Infobox military person|embed=yes 
+ | serviceyears  = 89–48 BC 
+ | serviceyears_label = Years 
+ | rank          =  
+ | commands      =  
+ | battles       = [[Social War (91–88 BC)|Social War]] < br > [[Sulla's second civil war]] < br > [[Sertorian War]] < br > [[Third Servile War]] < br > Campaign against the [[Cilician pirates]] < br > [[Third Mithridatic War]] < br > [[Caesar's civil war]] 
+ | battles_label = Conflicts 
+ | awards        = 3 [[Roman triumph]]s}} 
+ }}
+========================================================
+== Ptolemy, 4820==
+ {{circa}} 100 < ref name= " britannica.com " > {{Britannica|482098|Ptolemy}} < /ref > 
+ 
+{{Infobox person 
+ | name = Ptolemy 
+ | image = Ptolemaeus.jpg 
+ | image_size = 
+ | caption = Early [[Baroque]] artist's rendition < ref name= " portraits " > Since no contemporary depictions or descriptions of Ptolemy are known to have existed, later artists' impressions are unlikely to have reproduced his appearance accurately. < /ref > 
+ | birth_date = {{circa}} 100 < ref name= " britannica.com " > {{Britannica|482098|Ptolemy}} < /ref > 
+ | birth_place = [[Egypt (Roman province)|Egypt]], Roman Empire 
+ | death_date = c. {{death year and age|170|100}} < ref name= " britannica.com "  / > 
+ | death_place = [[Alexandria]], Egypt, Roman Empire 
+ | education = 
+ | occupation = {{hlist |[[Mathematician]] |[[Geographer]] |[[Astronomer]]|[[Astrologer]]}} 
+ |}}
+========================================================
+== Polybius, ERROR==
+ c. 200 BC 
+ 
+{{Infobox person 
+ | name          = Polybius 
+ | image         = Stele des Polybios.jpg 
+ | image_upright = 1.1 
+ | alt           = Grey slab 
+ | caption       = The [[stele]] of [[Kleitor]] depicting Polybius, [[Hellenistic art]], 2nd century BC, [[Museum of Roman Civilization]]. < ref > John Ma. (2013). ''[https://books.google.com/books?id=u3LfaRlHLfwC & pg=PA282 & lpg=PA282 & dq=Polybios+Stele+Kleitor & source=bl & ots=GMwO6n1s-2 & sig=CAq7Vy97Rc9hQsEsVqdixoMbHA4 & hl=en & sa=X & ved=0ahUKEwjhs-iXxO_RAhUY12MKHV-mD9cQ6AEIIjAB#v=onepage & q=Polybios%20Stele%20Kleitor & f=false Statues and Cities: Honorific Portraits and Civic Identity in the Hellenistic World]''. Oxford: Oxford University Press. {{ISBN|978-0-19-966891-5}}, pp 281-282. < /ref > 
+ | native_name   =  
+ | native_name_lang =  
+ | birth_date    = c. 200 BC 
+ | birth_place   = [[Megalopolis, Greece|Megalopolis]], [[Arcadia (ancient region)|Arcadia]] 
+ | death_date    = c. 118 BC 
+ | death_place   = [[Roman Greece]] 
+ | death_cause   =  
+ | resting_place =  
+ | resting_place_coordinates =  < !-- {{coord|LAT|LONG|type:landmark|display=inline}} -- > 
+ | nationality   = Greek 
+ | citizenship   =  
+ | education     =  
+ | occupation    = Historian 
+ | years_active  =  
+ | employer      =  
+ | notable_works = ''[[The Histories (Polybius)|The Histories]]'', events of the [[Roman Republic]], 220–146 BC 
+ | home_town     =  
+ | movement      =  
+ | children      =  
+ | module        =  
+ }}
+========================================================
+== Sima Qian, ERROR==
+ {{circa}} 145 < ref > " ...most systematically presented in The Grand Scribe’s Records written by Sima Qian (c. 145–86 BC) in the Western Han Dynasty "  Early China - A Social and Cultural History, page 48, Cambridge University Press. < /ref >  or 135 BC 
+ 
+{{Infobox person 
+ | name               = Sima Qian 
+ | image              = Sima Qian (painted portrait).jpg 
+ | alt                =  
+ | caption            =  
+ | birth_name         =  
+ | birth_date         = {{circa}} 145 < ref > " ...most systematically presented in The Grand Scribe’s Records written by Sima Qian (c. 145–86 BC) in the Western Han Dynasty "  Early China - A Social and Cultural History, page 48, Cambridge University Press. < /ref >  or 135 BC 
+ | birth_place        = Longmen, [[Han dynasty|Han Empire]] (now [[Hejin]], [[Shanxi]]) 
+ | death_date         = {{circa}} 86 BC (after 91 BC) 
+ | death_place        =  
+ | other_names        =  
+ | relations          = [[Sima Tan]] (father) 
+ | known_for          = ''[[Records of the Grand Historian]]'' 
+ | occupation         = Astrologer, historian, poet 
+ | module             =  
+ }}
+========================================================
+== Shem, ERROR==
+  
+ 
+{{Infobox person 
+ | name              = Shem 
+ | alt               = 
+ | image             = Shem02.jpg 
+ | caption           = Shem, son of Noah 
+ | birth_date        =  
+ | birth_place       = 
+ | death_date        = 
+ | death_place       = 
+ | nationality       = 
+ | other_names       = 
+ | known_for         = 
+ | occupation        = 
+ | parents           = [[Noah]] 
+ 
+ | children          = [[Elam (Hebrew Bible)|Elam]] < br / > [[Ashur (Bible)|Ashur]] < br / > [[Arphaxad]] < br / > [[Lud, son of Shem|Lud]] < br / > [[Aram, son of Shem|Aram]] 
+ }}
+========================================================
+== Thucydides, 2017==
+  {{circa| 460 BC}} < ref > Virginia J. Hunter,''Past and Process in Herodotus and Thucydides'', (Princeton University Press, 2017), 4. < /ref > 
+ 
+{{Infobox person 
+ | name             = Thucydides 
+ | image            = Thucydides pushkin02.jpg 
+ | alt              = Bust of Thucydides 
+ | caption          = Plaster cast bust of Thucydides (in the [[Pushkin Museum]]) from a Roman copy (located at [[Holkham Hall]]) of an early fourth-century BC Greek original 
+ | native_name      = Θουκυδίδης 
+ | native_name_lang = Greek 
+ | birth_date       =  {{circa| 460 BC}} < ref > Virginia J. Hunter,''Past and Process in Herodotus and Thucydides'', (Princeton University Press, 2017), 4. < /ref > 
+ | birth_place      = [[Halimus|Halimous]], Athens (modern [[Alimos]]) 
+ | death_date       = {{circa| 400 BC|lk=no}} (aged approximately 72) 
+ | death_place      = [[Athens]] 
+ | relations        = [[Olorus]] (father) 
+ | notable_works    = ''[[History of the Peloponnesian War]]'' 
+ | occupation       = [[Historian]], [[general officer|general]] 
+ }}
+========================================================
+== Vitruvius, ERROR==
+ 80 & ndash;70 BC 
+ 
+{{Infobox person 
+ | name               = Vitruvius 
+ | image              = Vitruvius.jpg 
+ | caption            = A 1684 depiction of Vitruvius (right) presenting ''[[De Architectura]]'' to [[Augustus]] 
+ | birth_name         = Marcus Vitruvius Pollio 
+ | birth_date         = 80 & ndash;70 BC 
+ | birth_place        = [[Roman Republic]] 
+ | death_date         = 15 BC (aged 55–65) 
+ | death_place        =  
+ | nationality        = Roman 
+ | occupation         = [[Author]], [[architect]], [[civil engineer]], and [[military engineer]] 
+ | notable_works      = ''[[De architectura]]'' 
+ }}
+========================================================
+== William Shakespeare, EMPTY==
+EMPTY
+{{Infobox person 
+ | name               = William Shakespeare 
+ | image              = Shakespeare.jpg < !--Please see the talk page before making any changes to the portrait-- > 
+ | caption            = The [[Chandos portrait]] (held by the [[National Portrait Gallery, London|National Portrait Gallery]], London) 
+ | birth_place        = [[Stratford-upon-Avon]], [[Warwickshire]], [[Kingdom of England|England]] 
+ | baptised           = 26 April 1564 
+ | death_date         = {{death date and age|df=y|23 April 1616|26 April 1564}} < !--His monument states that he was in his 53rd year at death, i.e. 52-- > 
+ | death_place        = Stratford-upon-Avon, Warwickshire, England 
+ | resting_place      = [[Church of the Holy Trinity, Stratford-upon-Avon]] 
+ | occupation         = {{hlist|Playwright|poet|actor}} 
+ | era                = {{unbulleted list|[[Elizabethan era|Elizabethan]]|[[Jacobean era|Jacobean]]}} 
+ | movement           = [[English Renaissance]] 
+ | yearsactive  = c. 1585–1613 
+ | spouse             = {{marriage|[[Anne Hathaway (wife of Shakespeare)|Anne Hathaway]]|1582}} 
+ | children           = {{unbulleted list|[[Susanna Hall]]|[[Hamnet Shakespeare]]|[[Judith Quiney]]}} 
+ | father             = [[John Shakespeare]] 
+ | mother             = [[Mary Shakespeare|Mary Arden]] 
+ | signature          = William Shakespeare Signature.svg 
+ }}
+========================================================
+== The Wachowskis, EMPTY==
+EMPTY
+{{Infobox person 
+ | name               = Lana and Lilly Wachowski 
+ | image              =   < !-- Please find a properly licensed post-2016 image of the Wachowskis to use here. See Talk:The_Wachowskis/Archive_3#More_recent_pictures for more information. -- > 
+ | birth_name         = '''Lana:''' Laurence Wachowski < br/ >  {{Birth date and age|mf=yes|1965|6|21}} < br / > Chicago, Illinois, U.S. 
+ ----'''Lilly:''' Andrew Paul Wachowski  < br/ >  {{Birth date and age|mf=yes|1967|12|29}} < br / > Chicago, Illinois, U.S. 
+ | death_date         = 
+ | death_place        = 
+ | other_names        = '''Collectively:''' < br / > {{ubl|The Wachowskis|The Wachowski Brothers (before 2010)}} 
+ | occupation         = Film and television directors, writers, producers 
+ | years_active       = 1994–present 
+ | spouse             = '''Lana Wachowski''' {{Plainlist| 
+ * {{marriage|Thea Bloom|October 30, 1993|December 2002|end=divorced}} 
+ * {{marriage|Karin Winslow|2009}} 
+   }} 
+ ----'''Lilly Wachowski''' {{marriage|Alisa Blasingame|1991}} 
+ | known for          = American film and TV director sisters 
+ | notable works      = {{Plainlist| 
+ * [[The Matrix (franchise)|''The Matrix'' series]] 
+ * ''[[V for Vendetta (film)|V for Vendetta]]'' 
+ * ''[[Speed Racer (film)|Speed Racer]]'' 
+ * ''[[Cloud Atlas (film)|Cloud Atlas]]'' 
+ * ''[[Jupiter Ascending]]'' 
+ * ''[[Sense8]]'' 
+ }} 
+ }}
+========================================================
+== Xenophon, ERROR==
+ {{circa|430 BC}} < ref > Strassler et al., [https://books.google.com/books?id=zJuJdxrLo2IC & pg=PR17 xvii]. < /ref > 
+ 
+{{Infobox person 
+ | name               = Xenophon of Athens 
+ | image              = File:xenophon.jpg 
+ | caption            = The [[Ancient Greece|Greek]] soldier and historian Xenophon of Athens. 
+ | birth_date         = {{circa|430 BC}} < ref > Strassler et al., [https://books.google.com/books?id=zJuJdxrLo2IC & pg=PR17 xvii]. < /ref > 
+ | birth_place        = [[Classical Athens|Athens]] 
+ | death_date         = 354 BC (aged approximately 77) 
+ | death_place        =  
+ | parents            = Gryllus 
+ | children           = [[Gryllus, son of Xenophon|Gryllus]] and Diodorus 
+ | nationality        = [[Classical Athens|Athenian]] 
+ | occupation         = [[Historian]], [[soldier]], [[mercenary]] 
+ | notable_works      = [[Education of Cyrus]] 
+ }}
+========================================================
+== Fatboy Slim, EMPTY==
+EMPTY
+{{Infobox person 
+    | child       = yes 
+    | spouse      = {{marriage|[[Zoe Ball]]|1999|2016|reason=separated}} 
+    | children    = 2 
+    | website     = {{URL|fatboyslim.net}} 
+   }}
+========================================================
+== Marcus Junius Brutus, ERROR==
+ Late 85 BC < ref > Year given by [[Cicero]] ([[Brutus (Cicero)|''Brutus'']] 324), which agrees with Brutus's ''[[cursus honorum]]''. [[Livy]]'s summary (124) gives XL (40) and a subsequent gap in the text. [[Velleius Paterculus]] has Brutus aged 36 at death, but this is probably incorrect. {{harvnb|Tempest|pp=262–263}} < /ref > 
+ 
+{{Infobox person 
+ | name          = Marcus Junius Brutus 
+ | image         = Brutusidesobv.gif 
+ | image_upright = 1.15 
+ | alt           = Grey coin with male face staring right 
+ | caption       = Brutus in a coin issued shortly before his death 
+ | birth_date    = Late 85 BC < ref > Year given by [[Cicero]] ([[Brutus (Cicero)|''Brutus'']] 324), which agrees with Brutus's ''[[cursus honorum]]''. [[Livy]]'s summary (124) gives XL (40) and a subsequent gap in the text. [[Velleius Paterculus]] has Brutus aged 36 at death, but this is probably incorrect. {{harvnb|Tempest|pp=262–263}} < /ref > 
+ | birth_place   =  [[Rome]], [[Roman Italy|Italy]], [[Roman Republic]] 
+ | death_date    = {{nowrap|23 October 42 BC (aged 42/43)}} 
+ | death_place   = Near [[Philippi]], [[Macedonia (Roman province)|Macedonia]] 
+ | death_cause   = [[Suicide]] 
+ | nationality   = Roman 
+ | other_names   = Quintus Servilius Caepio Brutus 
+ | occupation    = Politician, jurist, military commander 
+ | known_for     = [[Assassination of Julius Caesar]] < br > ''[[Et tu, Brute?]]'' 
+ | office        = [[Roman governor|Governor]] of [[Cisalpine Gaul]] (47–45 BC) < br > [[Praetor]] (44 BC) < br > [[List of Roman consuls designate|Consul designate]] (41 BC) 
+ | party         = [[Optimates]] 
+ | spouse        = {{ubl|[[Claudia Pulchra Major|Claudia]]|[[Porcia (wife of Brutus)|Porcia]]}} 
+ | parents       = [[Marcus Junius Brutus (died 77 BC)|M. Junius Brutus]]  &  [[Servilia (mother of Brutus)|Servilia]] < br > [[Julius Caesar]] (rumored) < ref > [[Plutarch]], ''Brutus'' [http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Brutus*.html#5 5] < /ref > 
+ | relatives     = [[Cato of Utica]] (uncle) < br > [[Quintus Servilius Caepio (uncle of Brutus)|Quintus Servilius Caepio]] 
+ }}
+========================================================
+== Herbie Hancock, EMPTY==
+EMPTY
+{{Infobox person 
+ | embed           = yes 
+ | spouse          = {{marriage|Gigi Hancock (''[[née]]'' Meixner)|1968}} < ref > [https://www.publishersweekly.com/pw/by-topic/authors/profiles/article/64364-a-literary-maiden-voyage-herbie-hancock.html] < /ref > 
+ | children        = 1 
+ | education       = [[Grinnell College]] < br > [[Roosevelt University]] 
+ }}
+========================================================
+== Pliny the Elder, ERROR==
+ AD 23 or 24 
+ 
+{{Infobox person 
+ |name   = Pliny the Elder < br/ > Gaius Plinius Secundus 
+ |image     = Como - Dome - Facade - Plinius the Elder.jpg 
+ |caption  = Statue of Pliny the Elder on the facade of Cathedral of S. Maria Maggiore in [[Como]] 
+ |birth_date  = AD 23 or 24 
+ |birth_place = [[Como|Novum Comum]] (Como), [[Roman Italy]], [[Roman Empire]] 
+ |death_date  =  AD 79 (aged 55) 
+ |death_place = [[Stabiae]], [[Campania]], Roman Empire 
+ |residence      = Rome, provincial locations, [[Misenum]] 
+ |citizenship    = Roman 
+ |education      = [[Rhetoric]], [[grammar]] 
+ |occupation     = [[Lawyer]], [[author]], [[natural philosopher]], [[Natural history|naturalist]], {{nowrap|military commander,}} {{nowrap|provincial governor}} 
+ |children       = [[Pliny the Younger]] (nephew, later adopted son) 
+ |parents        = Gaius Plinius Celer and Marcella 
+ |notable works  = ''[[Natural History (Pliny)|Naturalis Historia]]'' 
+ }}
+========================================================
+== Joan Crawford, ERROR==
+ March 23, 190? (uncertain){{refn|name=birthyear|group=Note}} 
+ 
+{{Infobox person 
+ | name               = Joan Crawford 
+ | image              = Joan Crawford in Humoresque, 1946.jpg 
+ | caption            = Crawford in ''Humoresque'', 1946 
+ | birth_name         = Lucille Fay LeSueur 
+ | birth_date         = March 23, 190? (uncertain){{refn|name=birthyear|group=Note}} 
+ | birth_place        = [[San Antonio]], Texas, U.S. 
+ | death_date         = May 10, 1977  
+ | death_place        = [[Manhattan]], New York City, New York, U.S. 
+ | resting_place      = [[Ferncliff Cemetery]], [[Hartsdale, New York]], U.S. 
+ | occupation         = {{hlist|Film and television actress|Broadway performer|dancer|business executive}} 
+ | years active       = 1925–1972 
+ | spouse             = {{Plain list|*{{marriage|[[Douglas Fairbanks Jr.|Douglas Fairbanks, Jr.]]|1929|1933|reason=divorced}} 
+ * {{marriage|[[Franchot Tone]]|1935|1939|reason=divorced}} 
+ * {{marriage|[[Phillip Terry]]|1942|1946|reason=divorced}} 
+ * {{marriage|[[Alfred Steele]]|1955|1959|reason=d.}} 
+ }} 
+ | children           = 4 (adopted), including [[Christina Crawford]] 
+ | relatives          = [[Hal LeSueur]]  < small > (brother) < /small > 
+ | signature          = Joan Crawford Signature.svg 
+ }}
+========================================================
+== Eratosthenes, ERROR==
+ 276 BC{{NoteTag|name=birth}} 
+ 
+{{Infobox person 
+ | name               = Eratosthenes 
+ | image              = Eratosthene.01.png 
+ | alt                = An etching of a man's head and neck in profile, looking to the right. The man has a beard and is balding. 
+ | birth_date         = 276 BC{{NoteTag|name=birth}} 
+ | birth_place        = [[Cyrene, Libya|Cyrene]] 
+ | death_date         = 194 BC (around 82){{NoteTag|name=death}} 
+ | death_place        = [[Alexandria]] 
+ | occupation         = {{unbulleted list|Scholar|Librarian |Poet |Inventor}} 
+ | known_for          = {{unbulleted list|[[Sieve of Eratosthenes]]|Founder of Geography}} 
+ }}
+========================================================
+== Wilfred Owen, EMPTY==
+EMPTY
+{{Infobox person|embed=yes 
+ | death_cause = [[Killed in action]] 
+ }}
+========================================================
+== Demosthenes, ERROR==
+ 384 & nbsp;BC 
+ 
+{{Infobox person 
+ | name               = Demosthenes 
+ | image              = Demosthenes orator Louvre.jpg 
+ | caption            = [[Bust (sculpture)|Bust]] of Demosthenes ([[Louvre]], Paris, France) 
+ | birth_date         = 384 & nbsp;BC 
+ | birth_place        = [[Athens]] 
+ | death_date         = 12 October 322 & nbsp;BC (aged 62) < ref > {{cite book|url=http://www.britannica.com/biography/Demosthenes-Greek-statesman-and-orator|last=Murphy|first=James J|title=Demosthenes|work=Encyclopædia Britannica|url-status=live|archiveurl=https://web.archive.org/web/20160804031258/https://www.britannica.com/biography/Demosthenes-Greek-statesman-and-orator|archivedate=4 August 2016}} < /ref > 
+ | death_place        = Island of [[Kalaureia]]  < small > (present-day [[Poros]]) < /small > 
+ }}
+========================================================
+== Catiline, ERROR==
+ 108 BC 
+ 
+{{Infobox person 
+ | name        = Catiline 
+ | image       = Catilina2-Maccari affresco.jpg 
+ | caption     = Detail of Catiline in [[Cesare Maccari]]'s fresco in [[Palazzo Madama]] 
+ | birth_name  = Lucius Sergius Catilina 
+ | birth_date  = 108 BC 
+ | birth_place =  
+ | death_date  = 62 BC 
+ | death_place = [[Pistoia|Pistoria]], [[Etruria]] 
+ | nationality = [[Ancient Rome|Ancient Roman]] 
+ | other_names =  
+ | occupation  =  
+ | known_for   = [[Second Catilinarian Conspiracy]] 
+ }}
+========================================================
+== Marcus Licinius Crassus, ERROR==
+ c. 115 BC{{sfn|Marshall|p=5}} 
+ 
+{{Infobox person 
+ | name               = Marcus Licinius Crassus 
+ | image              = Crassus Kopenhagen.jpg 
+ | image_upright      = 1.15 
+ | alt                = White male bust 
+ | caption            = Roman bust of Crassus in the [[Ny Carlsberg Glyptotek]], Copenhagen 
+ | birth_date         = c. 115 BC{{sfn|Marshall|p=5}} 
+ | birth_place        = [[Rome]], [[Roman Italy|Italy]], [[Roman Republic]] 
+ | death_date         = 6 May 53 BC (aged 61–62) 
+ | death_place        = Near Carrhae, [[Parthian Empire]] ([[Harran]], [[Turkey]]) 
+ | death_cause        = [[Killed in action]] 
+ | resting_place      =  
+ | resting_place_coordinates =  < !-- {{coord|LAT|LONG|type:landmark|display=inline}} -- > 
+ | nationality        = Roman 
+ | occupation         = Military commander and politician 
+ | organization       = [[First Triumvirate]] 
+ | net_worth          = {{c.}} 170 million [[Sestertius|sesterces]] < ref name= " TrivLibCrassus " / > 
+ | office             = [[List of Roman consuls|Consul of Rome]] (70, 55 BC) 
+ | spouse             = [[Tertulla (wife of Crassus)|Tertulla]] < ref name=Tertulla > {{Cite book|last=Smith|first=William|author-link1=William Smith (lexicographer)|title= Dictionary of Greek and Roman Biography and Mythology|url=http://www.ancientlibrary.com/smith-bio/1939.html|volume=2|year= 1870}}, p. 831 < /ref > 
+ | children           = [[Marcus Licinius Crassus (quaestor)|Marcus]]  &  [[Publius Licinius Crassus (son of triumvir)|Publius Licinius Crassus]] 
+ | parents            = [[Publius Licinius Crassus (consul 97 BC)|Publius Licinius Crassus]]  &  Venuleia 
+ | module             = {{Infobox military person|embed=yes 
+ | allegiance    = [[File:Roman Military banner.svg|25px]] & nbsp;[[Roman Republic]] 
+ | branch        = [[Roman Army]] 
+ | branch_label  = Branch 
+ | serviceyears  = 86–53 BC 
+ | serviceyears_label = Years 
+ | rank          = General 
+ | commands      =  
+ | battles       = [[Sulla's second civil war]] < br > [[Third Servile War]] < br > [[Battle of Carrhae]] 
+ | battles_label =  
+ | awards        =  
+ }} 
+ }}
+========================================================
+== Pliny the Younger, ERROR==
+ 61 AD  
+  
+{{Infobox person 
+  | name             = Pliny the Younger  
+  | native_name      = Gaius Plinius Caecilius Secundus|native_name_lang=la 
+  | birth_name       = Gaius Caecilius Cilo 
+  | image            = Como 015.JPG 
+  | caption          = Statue of Pliny the Younger on the facade of Cathedral of S. Maria Maggiore in [[Como]] 
+  | birth_date       = 61 AD  
+  | birth_place      = [[Como]] 
+  | death_date       = c. 113 AD (aged approx. 52) 
+  | death_place      = [[Bithynia]] 
+  | occupation       = Politician, judge, author 
+  | spouse           =  
+  | father           = Lucius Caecilius Cilo 
+  | mother           = Plinia Marcella 
+  | children         =  
+ }}
+========================================================
+== Seth, ERROR==
+  
+ 
+{{infobox person|child=yes| 
+ |parents= [[Adam and Eve]] 
+ |children= [[Enos (biblical figure)|Enosh]], 32 other sons, 23 daughters}}
+========================================================
+== Strabo, ERROR==
+64 or 63 BC  
+ 
+{{Infobox person 
+ |name = Strabo 
+ |image=Strabo.jpg  
+ |image_size=220px  
+ |caption=Strabo as depicted in a 16th-century engraving 
+ |birth_date=64 or 63 BC  
+ |birth_place={{longitem|[[Amasya|Amaseia]], [[Pontus (region)|Pontus]] < br/ > {{smaller|(modern-day [[Amasya]], [[Turkey]])}}}} 
+ |death_date={{circa|lk=no}} & nbsp;AD & nbsp;24 (aged about 87) 
+ |death_place= 
+ |occupation = {{hlist|Geographer|Philosopher|Historian}} 
+ }}
+========================================================
+== Solon, ERROR==
+ {{Circa| 630}} BC 
+ 
+{{Infobox person 
+ | name               = Solon 
+ | image              = Ignoto, c.d. solone, replica del 90 dc ca da orig. greco del 110 ac. ca, 6143.JPG 
+ | caption            = Bust of Solon, copy from a Greek original ({{circa|110 BC}}) from the [[Farnese Collection]], now at the [[National Archaeological Museum, Naples]] 
+ | native_name        = Σόλων 
+ | native_name_lang   = grc 
+ | birth_date         = {{Circa| 630}} BC 
+ | birth_place        = [[Athens]] 
+ | death_date         = {{Circa| 560}} BC (aged approx 70) 
+ | death_place        = [[Cyprus]] 
+ | occupation         = Statesman, lawmaker, poet 
+ }}
+========================================================
+== Wright brothers, EMPTY==
+EMPTY
+{{Infobox person 
+ | name          = The Wright brothers 
+ | image         = {{multiple image 
+ | align = center 
+ | image1 = Orville Wright 1905-crop.jpg 
+ | width1 = 150 
+ | alt1 =  
+ | caption1 =  
+ | image2 = Wilbur Wright-crop.jpg 
+ | width2 = 150 
+ | alt2 =  
+ | caption2 =  
+ | footer =  < center > Orville and Wilbur Wright in 1905 < /center > 
+ }} 
+ | caption       =  
+ | nationality   = American 
+ | other_names   = Will and Orv < br / > The Bishop's boys 
+ | occupation    =  
+ | years_active  =  
+ | known_for     = Inventing, building, and flying the world's first successful motor-operated airplane, the ''[[Wright Flyer]]'' 
+ | parents       = [[Milton Wright (bishop)|Milton Wright]] < br / > [[Susan Catherine Koerner Wright]] 
+ | relatives     = [[Katharine Wright]] (sister) 
+ | notable_works =  
+ | home_town     = [[Dayton, Ohio]] 
+ | module        = '''Signatures''' < br / > [[File:Orville Wright Signature.svg|frameless|x31px|Signature of Orville Wright]] & nbsp; & nbsp; & nbsp; & nbsp;[[File:Wilbur Wright Signature.svg|frameless|x31px|Signature of Wilbur Wright]] < br / > 
+ {{Infobox | decat = yes | child = yes 
+     | title = '''Orville Wright''' 
+     | label1= Born 
+     | data1 = {{birth date|1871|8|19}} < br / > Dayton, Ohio 
+     | label2= Died 
+     | data2 = {{Death date and age|1948|1|30|1871|8|19}} < br / > Dayton, Ohio 
+     | label3= Education 
+     | data3 = 3 years high school 
+     | label4=Occupation 
+     | data4= Printer/publisher, bicycle retailer/manufacturer, airplane inventor/manufacturer, pilot trainer 
+    }} 
+ | module2= 
+ {{Infobox | decat = yes | child = yes 
+ | title = '''Wilbur Wright''' 
+     | label1= Born 
+     | data1 = {{birth date|1867|4|16|}} < br / > [[Millville, Henry County, Indiana|Millville, Indiana]] 
+     | label2= Died 
+     | data2 = {{death date and age|1912|5|30|1867|4|16|}} < br / > Dayton, Ohio 
+     | label3= Education 
+     | data3 = 4 years high school 
+     | label4=Occupation 
+     | data4= Editor, bicycle retailer/manufacturer, airplane inventor/manufacturer, pilot trainer 
+    }} 
+ }}
+========================================================
+== Gordon McBean, EMPTY==
+EMPTY
+{{infobox person/Wikidata | fetchwikidata=ALL|list=hlist}}
+========================================================
+== John Canaparius, ERROR==
+  
+ 
+{{Infobox person 
+ | name          = John Canaparius 
+ | image         =  
+ | caption       =  
+ | birth_name    =  < !-- if different -- > 
+ | birth_date    =  
+ | birth_place   =  
+ | death_date    =  
+ | death_place   =  
+ | other_names   =  
+ | occupation    = Benedictine monk 
+ | years_active  =  
+ | spouse        = 
+ | language      =  
+ | partner       =  
+ | children      =  
+ | website       = 
+ }}
+========================================================
+== Joyce Kilmer, EMPTY==
+EMPTY
+{{Infobox person|child=yes 
+ | death_cause               = [[Killed in action]] 
+ }}
+========================================================
+== Don Lancaster, ERROR==
+  < !-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -- > 
+ 
+{{Infobox person 
+ |name         = Don Lancaster 
+ |image        =  < !-- filename only, no  " File: "  or  " Image: "  prefix, and no enclosing [[brackets]] -- > 
+ |caption      = 
+ |birth_name   = Donald E. Lancaster 
+ |birth_date   =  < !-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -- > 
+ |birth_place  = 
+ |death_date   =  < !-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (DEATH date then BIRTH date) -- > 
+ |death_place  = 
+ |burial_place =  < !-- may be used instead of resting_place and resting_place_coordinates (displays  " Burial place "  as label) -- > 
+ |residence    = 
+ |nationality  = 
+ |other_names  = 
+ |alma_mater   = 
+ |occupation   = 
+ |years_active = 
+ |employer     = 
+ |organization = 
+ |known_for    = Author 
+ |home_town    = 
+ |spouse       =  < !-- Use article title or common name -- > 
+ |partner      =  < !-- (unmarried long-term partner) -- > 
+ |children     = 
+ |parents      = 
+ |relatives    = 
+ |family       = 
+ |website      = {{URL|http://www.tinaja.com/|tinaja.com}} 
+ }}
+========================================================
+== Stanley Lord, EMPTY==
+EMPTY
+{{Infobox person 
+ | name          = Stanley Lord 
+ | image         = Stanley Lord.jpg 
+ | alt           = Captain Stanley Lord 
+ | caption       = Captain Stanley Lord 
+ | birthPhillip 
+ 
+ |Lord 
+     = {{Birth date|1877|09|13|df=yes}} 
+ | birth_place   = [[Bolton]], [[Lancashire]], England 
+ | death_date    = {{Death date and age|1962|01|24|1877|09|13|df=yes}} 
+ | death_place   = [[Wallasey]], [[Cheshire]], England 
+ | burial_place  = Wallasey Cemetery 
+ | nationality   = British 
+ | other_names   = 
+ | occupation    = Ship [[Captain (naval)|Captain]] 
+ | years_active  = 
+ | spouse        = {{marriage|Mabel Henrietta Tutton|1907|1957|end=her death}} 
+ | children      = Stanley Tutton Lord 
+ | known_for     = Captain of [[SS Californian]] 
+ | notable_works = 
+ }}
+========================================================
+== History of South Africa, EMPTY==
+EMPTY
+{{Infobox person 
+ | name = Bartolomeu Dias 
+ | image = Bartolomeu Dias, South Africa House (cut).JPG 
+ | caption = Statue of Bartolomeu Dias at the High Commission of South Africa in London. He was the first European navigator to sail around the southernmost tip of Africa. 
+ }}
+========================================================
+== Apollonius of Tyana, ERROR==
+ c.15 AD 
+ 
+{{Infobox person 
+ | name = Apollonius of Tyana 
+ | image = Apollonius of Tyana.jpg 
+ | caption = Apollonius of Tyana depicted on a coin. 
+ | birth_date = c.15 AD 
+ | birth_place = Tyana, Cappadocia, Anatolia (Roman Empire) 
+ | death_date = c. 100 AD 
+ | occupation = Orator, philosopher 
+ | known_for = Letters, miracle-working, speaking truth to power 
+ }}
+========================================================
+== Gottfried Benn, ERROR==
+2 May 1886
+{{infobox person| image = Bundesarchiv-Bild-183-1984-1116-500,-Gottfried-Benn-Arzt-und-Schriftsteller cropped.jpg 
+ | caption = Gottfried Benn in 1934|birth_date=2 May 1886|death_date=7 July 1956 
+ }}
+========================================================
+== Terah, ERROR==
+  
+ 
+{{Infobox person 
+ |name               = Terah 
+ |image              = Terah.jpg 
+ |image_size         = 200px 
+ |caption            = Illustration of Terah in [[Latin]] from '' " [[Promptuarii Iconum Insigniorum]] " '' 
+ |birth_date         =  
+ | birth_place = [[Ur of the Chaldees]], [[Sumer]], present-day [[Iraq]]  
+ |death_place        = [[Haran (biblical place)|Haran]], now [[Harran]], [[Şanlıurfa Province]], [[Turkey]] 
+ | occupation        = 
+ | children          = [[Abraham|Abram]] < br / > [[Nahor, son of Terah|Nahor II]] < br / > [[Haran]] < br / > [[Sarah|Sarai]] < br / > 
+ | parents           = [[Nahor, son of Serug|Nahor]] ben [[Serug]] 
+ }}
+========================================================
+== Shamgar, EMPTY==
+EMPTY
+{{Infobox person 
+ | image                     = Speculum Darmstadt 2505 31r Sangor.jpg 
+ | image_size                = 250px 
+ | caption                   = Medieval depiction of Shamgar 
+ | occupation                = Third Judge of Israel  
+ | nationality               =  
+ | residence                 =  
+ | predecessor               = [[Ehud]] 
+ | successor                 = [[Deborah]] 
+ | other_names               =  
+ | spouse                    =  
+ }}
+========================================================
+== Tiberius Gracchus, ERROR==
+ c. 163 BC 
+ 
+{{Infobox person 
+ | name          = Tiberius Sempronius Gracchus 
+ | birth_date    = c. 163 BC 
+ | birth_place   =  
+ | death_date    = 133 BC (aged probably 29) 
+ | death_place   = [[Rome]] 
+ | death_cause   = Beaten with clubs 
+ | nationality   = Roman 
+ | occupation    = Politician and soldier 
+ | known_for     = Attempted agrarian reforms 
+ | office        = [[Tribune of the plebs]] (133 BC) 
+ | party         = [[Populares]] 
+ | spouse        = Claudia 
+ | children      = 3 sons (died young) 
+ | parents       = [[Tiberius Sempronius Gracchus (consul 177 BC)|Tiberius Sempronius Gracchus]] and [[Cornelia (mother of the Gracchi)|Cornelia]] 
+ | relatives     = [[Gaius Gracchus]] (brother) < br > [[Sempronia]] (sister) < br > [[Publius Cornelius Scipio Nasica Serapio|Scipio Nasica Serapio]] (cousin) 
+ | module        = {{Infobox military person|embed=yes 
+ | allegiance    = [[Roman Republic]] 
+ | rank          = [[Military tribune]] and [[quaestor]] 
+ | battles       = {{ubl|[[Third Punic War]] (146 BC)|[[Numantine War]] (137 BC)}} 
+ | battles_label = Wars 
+ }} 
+ }}
+========================================================
+== Henrik Dam, EMPTY==
+EMPTY
+{{Infobox person/Wikidata|fetchwikidata=ALL|onlysourced=yes|awards=[[Nobel Prize in Medicine]]}}
+========================================================
+== Marija Gimbutas, ERROR==
+ {{Birth date|1921|01|23}}  < !-- {{Birth date and age|YYYY|MM|DD}} for living people. Supply only the year unless the exact date is already widely published, as per WP:DOB. For people who have died, use {{Birth date|YYYY|MM|DD}}. -- > 
+ 
+{{Infobox person 
+ | name          = Marija Gimbutas  < !-- include middle initial, if not specified in birth_name -- > 
+ | image         = File:Prof-Dr-Marija-Gimbutas-Copyright-Foto-Monica-Boirar-aka-Monica-Beurer.jpg  < !-- filename only, no  " File: "  or  " Image: "  prefix, and no enclosing [[brackets]] -- > 
+ | alt           =  < !-- descriptive text for use by the blind and visually impaired's speech synthesis (text-to-speech) software -- > 
+ | caption       = Prof. Dr. Marija Gimbutas at the Frauenmuseum Wiesbaden, Germany 1993 
+ | birth_name    = Marija Birutė Alseikaitė < !-- only use if different from name -- > 
+ | birth_date    = {{Birth date|1921|01|23}}  < !-- {{Birth date and age|YYYY|MM|DD}} for living people. Supply only the year unless the exact date is already widely published, as per WP:DOB. For people who have died, use {{Birth date|YYYY|MM|DD}}. -- > 
+ | birth_place   = [[Vilnius]], [[Republic of Central Lithuania]] 
+ | death_date    = {{Death date and age|1994|02|02|1921|01|23}}  < !-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -- > 
+ | death_place   = [[Los Angeles, California]], U.S. 
+ | nationality   = Lithuanian/American 
+ | other_names   = {{lang-lt|Marija Gimbutienė}} 
+ | occupation    = [[Archaeology|Archaeologist]] 
+ | employer      = [[University of California, Los Angeles]] 
+ | alma_mater    = [[Vilnius University]] 
+ | years_active  = 1949–1991 
+ | known_for     = Kurgan hypothesis 
+ | notable_works = ''The Goddesses and Gods of Old Europe'' (1974); ''The Language of the Goddess'' (1989); ''The Civilization of the Goddess'' (1991); ''The Balts'' (1961); ''The Slavs'' (1971); 
+ }}
+========================================================
+== Gideon, EMPTY==
+EMPTY
+{{Infobox person 
+ | name         = Gideon 
+ | image        = Gideon-judge.jpg 
+ | caption      = Gideon from ''[[Promptuarii Iconum Insigniorum]]'' 
+ | native_lang1 = Hebrew 
+ | native_lang1_name1 = גִּדְעוֹן 
+ | predecessor  = [[Deborah]] 
+ | successor    = [[Abimelech (Judges)|Abimelech]] 
+ | spouse       =  
+ | royal house  = 
+ | father       =  [[Joash the Abiezrite|Joash]] 
+ | mother       = 
+ | birth_place  =  
+ | death_place  = 
+ | burial_place       = 
+ }}
+========================================================
+== Mary, mother of Jesus, 2010==
+ Date unknown; traditionally celebrated 8 September ([[Nativity of Mary]]) c. 18 BC < ref > {{cite book 
+  | url=https://books.google.com/books?id=cQ1SlYA5J8QC 
+  |last1=Pevehouse 
+  |first1=James 
+  |title=Spiritual Truths 
+  |date=2010 
+  |publisher=[[Dorrance Publishing Company]] 
+  |location=[[Pittsburgh]] 
+  |edition=1st 
+  |isbn=9781434903044 
+  |page=110}} < /ref > 
+ 
+{{Infobox person 
+ | name= Mary 
+ | native_name = מרים 
+ | image = The_Madonna_in_Sorrow.jpg 
+ | caption = ''The Madonna in Sorrow'', by [[Giovanni Battista Salvi da Sassoferrato]], 17th century. 
+ | birth_date = Date unknown; traditionally celebrated 8 September ([[Nativity of Mary]]) c. 18 BC < ref > {{cite book 
+  | url=https://books.google.com/books?id=cQ1SlYA5J8QC 
+  |last1=Pevehouse 
+  |first1=James 
+  |title=Spiritual Truths 
+  |date=2010 
+  |publisher=[[Dorrance Publishing Company]] 
+  |location=[[Pittsburgh]] 
+  |edition=1st 
+  |isbn=9781434903044 
+  |page=110}} < /ref > 
+ | death_date  = Unknown, after c. 30 / 33 AD 
+ | home_town = {{unbulleted list |  [[Nazareth]], [[Galilee]]}} 
+ | spouse = [[Saint Joseph|Joseph]] 
+ | children = [[Jesus]],{{efn|Undisputed according to the [[Bible]] and the [[Quran]].}} possibly the [[brothers and sisters of Jesus]]. 
+ | parents = unknown; according to some apocryphal writings: [[Joachim]] and [[Saint Anne|Anne]]{{efn|The parents of Mary are unknown, but according to apocryphal gospels and some denominational traditions, it is [[Joachim]] and [[Saint Anne|Anne]]. Some denomination traditions believe [[Heli (biblical figure)|Heli]] and his wife to be the parents of Mary. Both are highly disputed. See ''[[Genealogy of Jesus#Explanations for divergence|Genealogy of Jesus § Explanations for divergence]].''}} 
+ }}
+========================================================
+== Aristarchus of Samos, ERROR==
+ {{circa}} 310 BC 
+ 
+{{Infobox person 
+ | name = Aristarchus of Samos 
+ | image = Aristarchos von Samos (Denkmal).jpeg 
+ | caption = Statue of Aristarchus of Samos at the [[Aristotle University of Thessaloniki]] 
+ | birth_date = {{circa}} 310 BC 
+ | birth_place = [[Samos]] 
+ | death_date = c. 230 BC (age {{circa|80}}) 
+ | death_place = [[Alexandria]] < ref > {{cite web|url=http://www.worldhistory.biz/ancient-history/71176-aristarchus-of-samos.html|title=Aristarchus of Samos: Mathematician and astronomer|date=8 September 2015|work=World History|archiveurl=https://web.archive.org/web/20180507154131/http://www.worldhistory.biz/ancient-history/71176-aristarchus-of-samos.html|archivedate=7 May 2018|accessdate=29 November 2018}} < /ref > 
+ | nationality = Greek 
+ | occupation = {{hlist |[[Scholar]] |[[Mathematician]] |[[Astronomer]]}} 
+ }}
+========================================================
+== Gnaeus Domitius Ahenobarbus (consul 32 BC), ERROR==
+  
+ 
+{{Infobox person 
+ | name          = Gnaeus Domitius Ahenobarbus 
+ | image         = Cng103lot661cndomitius4140.jpg 
+ | image_upright = 1.15 
+ | alt           = Grey coin 
+ | caption       = Coin commemorating his naval victory over [[Gnaeus Domitius Calvinus]] 
+ | birth_date    =  
+ | birth_place   =  
+ | death_date    = 31 BC 
+ | death_place   =  
+ | death_cause   =  
+ | resting_place =  
+ | resting_place_coordinates =  < !-- {{coord|LAT|LONG|type:landmark|display=inline}} -- > 
+ | nationality   = Roman 
+ | occupation    = General and politician 
+ | years_active  =  
+ | office        = [[Roman consul|Consul of Rome]] (32 BC) 
+ | spouse        = [[Aemilia Lepida (wife of Ahenobarbus)|Aemilia Lepida]] 
+ | children      = [[Lucius Domitius Ahenobarbus (consul 16 BC)|Lucius Domitius Ahenobarbus]] 
+ | parents       = [[Lucius Domitius Ahenobarbus (consul 54 BC)|Lucius Domitius Ahenobarbus]] and [[Porcia (sister of Cato the Younger)|Porcia]] 
+ | relatives     =  
+ | module        =  
+ }}
+========================================================
+== Jeremiah, ERROR==
+ c. 650 BC 
+ 
+{{Infobox person 
+ |name        = Jeremiah 
+ |image       = Michelangelo Buonarroti 027.jpg 
+ |caption     = Jeremiah, as depicted by [[Michelangelo]] from the [[Sistine Chapel ceiling]] 
+ |birth_date  = c. 650 BC 
+ |birth_place = [[Anathoth]] 
+ |Venerated   = [[Judaism]] 
+                [[Islam]] 
+                [[Christianity]] 
+ |death_date  = c. 570 BC 
+ |death_place = [[Egypt]] 
+ |occupation  = [[Prophet]] 
+ |parents     = [[Hilkiah]] 
+ }}
+========================================================
+== Cato the Elder, ERROR==
+ 234 BC 
+ 
+{{Infobox person 
+ | name          = Marcus Porcius Cato 
+ | image         = Marco Porcio Caton Major.jpg 
+ | image_upright = 1.1 
+ | alt           =  < !-- descriptive text for use by speech synthesis (text-to-speech) software -- > 
+ | caption       = The {{ill|Patrician Torlonia|it|Patrizio Torlonia}} bust once thought to be of Cato the Elder 
+ | birth_date    = 234 BC 
+ | birth_place   = [[Tusculum]], [[Roman Republic]] 
+ | death_date    = 149 BC (age 85) 
+ | death_place   = [[Roman Republic]] 
+ | other_names   =  
+ | occupation    =  
+ | years_active  =  
+ | known_for     =  
+ | notable_works = ''[[De Agri Cultura]]'' 
+ | office        = [[Roman consul|Consul of Rome]] (195 BC) < br / > [[Roman censor|Censor of Rome]] (184 BC) 
+ | spouse        = {{hlist|Licinia|[[Salonia]]}} 
+ | children      = {{ubl|[[Marcus Porcius Cato Licinianus|M. Cato Licinianus]]|[[Marcus Porcius Cato Salonianus|M. Cato Salonianus]]}} 
+ | relatives     =  
+ | module        = {{Infobox Politician|embed=yes 
+ | allegiance    =[[File:Roman Military banner.svg|25px]] [[Roman Republic]] 
+ | rank          =[[Legatus|General]] 
+ | battles       ={{plainlist| 
+ *[[Second Punic War]] 
+ *[[Roman-Syrian War]]}} 
+ }} 
+ }}
+========================================================
+== Carloman (mayor of the palace), ERROR==
+ c.713 
+ 
+{{Infobox person 
+ | name          = Carloman 
+ | image         = Charles Martel divise le royaume entre Pépin et Carloman.jpg 
+ | alt           =  
+ | caption       = [[Charles Martel]] divides the realm between [[Pepin the Short|Pepin]] and Carloman. 
+ | birth_date    = c.713 
+ | birth_place   =  
+ | death_date    = 17 July or 17 August 754 {{nowrap|(aged 40-41)}} 
+ | death_place   = {{lang|fr|[[Vienne, Isère]]}} 
+ | resting_place = [[Monte Cassino|Abbey of Monte Cassino]] 
+ | resting_place_coordinates = {{coord|41|29|24|N|13|48|50|E|region:IT_type:landmark|display=inline}} 
+ | other_names   =  
+ | known_for     = [[Mayor of the Palace]] of [[Austrasia]], [[Duke of the Franks]] 
+ }}
+========================================================
+== Didymus Chalcenterus, ERROR==
+ c. 63 BC 
+ 
+{{Infobox person 
+ | name   = '''Didymus''' ({{lang|grc|Δίδυμος}}) 
+ | image     = 
+ | image_size     = 
+ | caption  = 
+ | birth_date  = c. 63 BC 
+ | birth_place = [[Alexandria]] (?) 
+ | death_date  = c. 10 
+ | death_place = [[Rome]] (?) 
+ | occupation     = grammarian 
+ | spouse         = 
+ }}
+========================================================
+== Diogenes Laërtius, ERROR==
+ {{floruit|3rd century AD}} 
+ 
+{{Infobox person 
+ | name = Diogenes Laërtius 
+ | native_name = {{lang|grc|Διογένης Λαέρτιος}} 
+ | image = Diogenes Laertius.jpg 
+ | caption = 17th-century [[engraving]] 
+ | birth_date = {{floruit|3rd century AD}} 
+ | occupation = [[Biographer]] 
+ }}
+========================================================
+== Ausonius, ERROR==
+ c. 310 
+ 
+{{Infobox person 
+ | name = Decimius Magnus Ausonius 
+ | image = IMG 3148 Giovan Pietro Lasagna, Monumento a Decimo Magno Ausonio - Milano, Scuole palatine - Foto G. Dall'Orto, 3-gen-2006.jpg 
+ | caption = Monument to Ausonius in Milan. 
+ | birth_date = c. 310 
+ | birth_place = [[Bordeaux|Burdigala]] 
+ | nationality = Roman 
+ | death_date = c. 395 
+ | occupation = poet, teacher 
+ | relatives = {{unbulleted list|[[Aemilia Hilaria]] (aunt)|[[Aemilius Magnus Arborius]] (uncle)|[[Paulinus of Pella]] (grandson)}} 
+ }}
+========================================================
+== Gaius Marius, ERROR==
+ c. 157 BC 
+ 
+{{Infobox person 
+ | name          = Gaius Marius 
+ | image         = Marius Glyptothek Munich 319.jpg 
+ | image_upright = 1.1 
+ | alt           = White bust 
+ | caption       = Bust formerly called Gaius Marius at [[Munich]] [[Glyptothek]] 
+ | birth_date    = c. 157 BC 
+ | birth_place   = Cereatae, [[Latium]], [[Roman Republic]] 
+ | death_date    = 13 January 86 BC (aged 70–71) 
+ | death_place   = [[Rome]], [[Roman Italy|Italy]] 
+ | death_cause   =  
+ | resting_place =  
+ | resting_place_coordinates =  < !-- {{coord|LAT|LONG|type:landmark|display=inline}} -- > 
+ | occupation    = General and politician 
+ | known_for     =  
+ | notable_works =  < !-- produces label  " Notable work " ; may be overridden by |credits=, which produces label  " Notable credit(s) " ; or by |works=, which produces label  " Works " ; or by |label_name=, which produces label  " Label(s) "  -- > 
+ | net_worth     =  < !-- Net worth should be supported with a citation from a reliable source -- > 
+ | office        = [[Tribune of the plebs]] (119 BC) < br > [[Roman consul|Consul]] {{nowrap|(107, 104–100, 86 BC)}} 
+ | party         = [[Populares]] 
+ | opponents     = [[Sulla]] 
+ | spouse        = [[Julia (wife of Marius)|Julia]] (aunt of [[Julius Caesar]]) 
+ | children      = [[Gaius Marius the Younger]] 
+ | relatives     =  
+ | module        = {{Infobox military person|embed=yes 
+ |branch         = [[Roman army]] 
+ |branch_label   = Branch 
+ |serviceyears   = 134–87 BC 
+ |serviceyears_label = Years 
+ |battles        = [[Numantine War]] < br > [[Cimbrian War]] < br > [[Jugurthine War]] < br > [[Social War (91–88 BC)|Social War]] < br > [[Sulla's first civil war]] 
+ |battles_label  = Wars 
+ |awards         = 2 [[Roman triumph]]s 
+ }} 
+ }}
+========================================================
+== Ramzi bin al-Shibh, ERROR==
+ 
+ 
+{{Infobox person 
+ |name        = Ramzi bin al-Shibh 
+ |image       =  
+ |image_size  =  
+ |caption     =  
+ |birth_date  = 
+ |other_names = Abu Ubaidah 
+ |occupation  = [[Terrorist]] 
+ |nationality = [[Yemen]]i 
+ |module       = {{Infobox military person|embed=yes 
+ |allegiance   = {{flagicon image|Flag of al-Qaeda.svg|image_size=23px}} [[Al-Qaeda]] 
+ |branch       = [[Al-Qaeda|Al-Qaeda central]]  < br / >   < small > (1990s–present) < /small > 
+ |serviceyears = 1990s–2002 
+ |rank         = AQ officer and communicator 
+ [[War in North-West Pakistan]] 
+ [[War in Afghanistan (1978–present)|Afghan civil war]] 
+ }} 
+ }}
+========================================================
+== Erik the Red, ERROR==
+ {{circa}} 950 
+ 
+{{Infobox person 
+ | image              = Eric the Red.png 
+ | caption            = Erik the Red from [[Arngrímur Jónsson]]'s ''Grönlandia''. Note [[anachronistic]] details in his weapons and armor. 
+ | birth_date         = {{circa}} 950 
+ | birth_place        = [[Norway]] 
+ | death_date         = {{circa}} 1003 
+ | death_place        = [[Greenland]] 
+ | known_for          = Founded the first [[Norsemen|Norse]] [[colonization|settlement]] in [[Greenland]] 
+ | occupation         = Settler, explorer 
+ | nationality        = [[Norsemen|Norse]] 
+ | parents            = [[Thorvald Asvaldsson]] (father) 
+ | children           = [[Freydís Eiríksdóttir|Freydis]], [[Leif Erikson]], [[Thorvald Eiriksson|Thorvald]] and [[Thorstein Eiriksson|Thorstein]] 
+ | relatives          = 
+ | partner            = Þjódhild, daughter of Jorund 
+ }}
+========================================================
+== Edward Plantagenet, 17th Earl of Warwick, EMPTY==
+EMPTY
+{{Infobox person 
+ | name               = Edward Plantagenet 
+ | post-nominals      = 17th [[Earl of Warwick]] 
+ | image              = Arms of Edward Plantagenet, 17th Earl of Warwick.svg 
+ | caption            = [[Escutcheon (heraldry)|Shield]] of the Earl of Warwick 
+ | module             = {{Infobox royalty| embed = yes 
+ | reign          = 20 September 1492{{snd}}28 November 1499 
+ | reign-type     = Tenure 
+ | predecessor    = [[Anne Neville, 16th Countess of Warwick]] 
+ | successor      = Title forfeit 
+ | birth_date     = 25 February 1475 
+ | birth_place    = [[Warwick]], [[Warwickshire]], England 
+ | death_date     = {{death date and age|1499|11|28|1475|2|25|df=y}} 
+ | death_place    = [[Tower of London]], [[London]], England 
+ | burial_place   =  
+ | house          = [[House of York|York]] 
+ | father         = [[George Plantagenet, 1st Duke of Clarence]] 
+ | mother         = [[Isabel Neville, Duchess of Clarence]]}} 
+ }}
+========================================================
+== Dieterich Buxtehude, EMPTY==
+EMPTY
+{{Infobox person 
+ | name          = Dieterich Buxtehude 
+ | image         = Imagebuxtehude.jpg 
+ | caption       = The only surviving portrait of Buxtehude, playing a [[viol]], from ''A musical party'' by [[Johannes Voorhout]] (1674) 
+ | alt           = The only surviving portrait of Buxtehude, playing a viol, from ''A musical party'' by Johannes Voorhout, 1674 
+ | birth_place   = [[Helsingborg]], [[Scania]], [[Denmark–Norway]] 
+ | baptised      = 1637 
+ | death_date    = {{Death date and age|1707|5|9|1637|1|1}} 
+ | death_place   = [[Free City of Lübeck]], [[Holy Roman Empire]] 
+ | occupation    = {{plainlist| 
+ * [[Composer]] 
+ * [[Organist]] 
+ }} 
+ | works         = [[List of compositions by Dieterich Buxtehude]] 
+ }}
+========================================================
+== Andrew Fleming, ERROR==
+ 
+ 
+{{Infobox person 
+ |name=Andrew Fleming 
+ |image= 
+ |caption= 
+ |birth_date= 
+ |birth_place= 
+ |occupation= Director, screenwriter 
+ |years_active=1988–present 
+ }}
+========================================================
+== Manco Cápac, EMPTY==
+EMPTY
+{{Infobox person 
+ | name        = Manqu Qhapaq  
+ | image       = Manco Cápac 18th century Cusco School.jpg 
+ | title=[[Sapa Inca]]| 
+ | alt         = Manco Cápac 
+ | predecessor = None 
+ | successor   = [[Sinchi Roca]] 
+ | birth_place = Tamputoco, [[Cusco]], Peru 
+ | death_date = c. 1230 
+ | death_place = [[Cusco]], Peru 
+ | caption     = 18th-century painting depicting Manco Cápac, [[Cusco School]]. 
+ | imagesize= 160px 
+ | parents= Apu Tambo < ref name= " father " > Arturo Gómez Alarcón, [http://losincas.blogspot.com/2005/04/manco-cpac.html ''Los Incas, Manco Cápac'']. < /ref > 
+ | sibling= [[Mama Uqllu]] 
+ | spouse= [[Mama Uqllu]] 
+ | children= [[Sinchi Roca]] 
+ }}
+========================================================
+== Hamilcar Barca, ERROR==
+ c. 275 BC 
+ 
+{{Infobox person 
+ | name = Hamilcar Barca 
+ | residence = 
+ | image = Dishekel hispano-cartaginés-2.jpg 
+ | caption = A [[Carthaginian currency|Carthaginian]] [[shekel]], dated 237–227 BC, depicting the Punic god [[Melqart]] (equivalent of [[Hercules]]/[[Heracles]]), possibly with the features of Hamilcar Barca, father of Hannibal Barca; on the reverse is a man riding a [[war elephant]] 
+ | birth_name = 
+ | birth_date = c. 275 BC 
+ | birth_place =  
+ | death_date = 228 BC 
+ | death_place = 
+ | known = 
+ | title = Carthaginian General 
+ | salary = 
+ | term = 19 years; 247–228 BC 
+ | predecessor = 
+ | successor = [[Hasdrubal the Fair]] 
+ | boards = 
+ | religion = 
+ | spouse = 
+ | partner = 
+ | children = [[Hannibal Barca]] < br / > [[Hasdrubal (Barcid)|Hasdrubal Barca]] < br / > [[Mago (Barcid)|Mago Barca]] 
+ | relations = 
+ | website= 
+ | employer = 
+ | height = 
+ | weight = 
+ }}
+========================================================
+== Erik Waller (collector), ERROR==
+1875
+{{Infobox person|image=Axel_Erik_Waller.png|occupation=surgeon |known_for=book collection|birth_date=1875|death_date=1955}}
+========================================================
+== Aikanaka (mythology), EMPTY==
+EMPTY
+{{Infobox person 
+ | name        =ʻAikanaka  
+ | spouse=[[Lona (mythology)|Lona]] < br/ > [[Hina (goddess)|Hinahanaiakamalama]]  
+ | children =[[Hemā (mythology)|Hemā]]  
+ }}
+========================================================
+== Callimachus, ERROR==
+ {{circa}} 310/305 BC 
+ 
+{{Infobox person 
+ | name           = Callimachus 
+ | native_name    = Καλλίμαχος 
+ | image          =  
+ | image_size     = 
+ | birth_date     = {{circa}} 310/305 BC 
+ | birth_place    = [[Cyrene, Libya|Cyrene]], [[Ancient Libya]] 
+ | death_date     = {{circa}} 240 BC 
+ | death_place    = [[Alexandria]] 
+ | occupation     = poet, critic and scholar 
+ | spouse         = 
+ | box_width      = 
+ }}
+========================================================
+== Caesar the Geezer, ERROR==
+ 
+ 
+{{Infobox person 
+ | name          = Caesar The Geezer 
+ | image         = 
+ | image_size    = 
+ | caption       = 
+ | birth_name    = 
+ | birth_date    = 
+ | birth_place   = 
+ | residence     = 
+ | nationality   = 
+ | other_names   = Chris Rogers, 
+ | known_for     = British radio personality 
+ | employer      = CTG Broadcast / SFM Radio – Sittingbourne 
+ | spouse        =  
+ | children      = 
+ | parents       = 
+ | relatives     = 
+ | website       = 
+ }}
+========================================================
+== Sergei Rachmaninoff, EMPTY==
+EMPTY
+{{Infobox person 
+ | name        = Sergei Rachmaninoff 
+ | image       = Sergei Rachmaninoff cph.3a40575.jpg 
+ | signature = Rachmaninoff signature 1899.jpg 
+ }}
+========================================================
+== Agastya, EMPTY==
+EMPTY
+{{Infobox person 
+ | father = [[Pulastya]] 
+ | mother = [[Manini]] 
+ | relatives = [[vishrava]]  brother 
+ }}
+========================================================
+== Arrian, ERROR==
+ {{circa|86}} 
+ 
+{{Infobox person 
+ | name = Arrian < br / > < small > Lucius Flavius Arrianus < /small > 
+ | image = Arrian7.jpg 
+ | caption = Bust of Arrian 
+ | birth_date = {{circa|86}} 
+ | birth_place = [[Nicomedia]], [[Bithynia]], [[Anatolia]] 
+ | death_date = {{circa|160}} < ref > {{cite web|url=http://www.britannica.com/EBchecked/topic/36110/Arrian#|title= Arrian|publisher= www.britannica.com |accessdate=2010-01-07|quote= Arrian born c. AD 86, Nicomedia, Bithynia [now İzmit, Tur.] died c. AD 160, Athens? [Greece]. }} < /ref >  (aged 73–74) 
+ | death_place = [[Athens]] 
+ | occupation = Historian, public servant, military commander and philosopher 
+ | nationality = [[Greek people|Greek]] 
+ | mother = 
+ }}
+========================================================
+== Curt Sachs, ERROR==
+June 29, 1881
+{{Infobox person|name=Curt Sachs|image=Curt Sachs.jpg|image_size=250px|birth_date=June 29, 1881|death_date=February 5, 1959}}
+========================================================
+== Charles Sorley, EMPTY==
+EMPTY
+{{Infobox person|child=yes 
+ | death_cause               = [[Killed in action]] 
+ }}
