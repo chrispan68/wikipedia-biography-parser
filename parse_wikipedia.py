@@ -6,6 +6,7 @@ import subprocess
 data_path = sys.argv[1]
 output = sys.argv[2]
 error = sys.argv[3]
+year_file = sys.argv[4]
 
 # Object for handling xml
 handler = WikiXmlHandler()
@@ -15,40 +16,42 @@ parser.setContentHandler(handler)
 # Iteratively process file
 with open(output, 'w') as f_out:
     with open(error , 'w') as f_error:
-        failures = 0
-        for line in subprocess.Popen(['bzcat'], 
-                                    stdin = open(data_path), 
-                                    stdout = subprocess.PIPE).stdout:
-            begin = len(handler._people)
-            try:
-                parser.feed(line)
-            except StopIteration:
-                break
+        with open(year_file, 'w') as f_year:
+            failures = 0
+            for line in subprocess.Popen(['bzcat'], 
+                                        stdin = open(data_path), 
+                                        stdout = subprocess.PIPE).stdout:
+                begin = len(handler._people)
+                try:
+                    parser.feed(line)
+                except StopIteration:
+                    break
 
-            if len(handler._people) > begin:
-                name = handler._people[-1][0]
-                year = handler._people[-1][1]
-                summary = handler._people[-1][2]
-                year_raw = handler._people[-1][3]
-                text = handler._people[-1][4]
-                size = len(handler._people)
-                if size % 100 == 0:
-                    print("\n=======================================")
-                    print("Current number of Biographies: " + str(size))
-                    print("Current success rate: " + str(failures / size))
-                    print("=======================================\n")
-                print(name + ": " + year)
-                if year == 'ERROR' or year == 'EMPTY' or int(year) > 2000:
-                    failures += 1
-                    f_error.write("========================================================\n")
-                    f_error.write("== " + name + ", " + year + "==\n")
-                    f_error.write(year_raw + "\n")
-                    f_error.write(text + "\n")
-                else: 
-                    f_out.write("== " + name + ", " + year + " ==\n")
-                    f_out.write(summary +"\n")
-                
+                if len(handler._people) > begin:
+                    name = handler._people[-1][0]
+                    year = handler._people[-1][1]
+                    summary = handler._people[-1][2]
+                    year_raw = handler._people[-1][3]
+                    text = handler._people[-1][4]
+                    size = len(handler._people)
+                    if size % 100 == 0:
+                        print("\n=======================================")
+                        print("Current number of Biographies: " + str(size))
+                        print("Current success rate: " + str(failures / size))
+                        print("=======================================\n")
+                    print(name + ": " + year)
+                    if year == 'ERROR' or year == 'EMPTY' or int(year) > 2000:
+                        failures += 1
+                        f_error.write("========================================================\n")
+                        f_error.write("== " + name + ", " + year + "==\n")
+                        f_error.write(year_raw + "\n")
+                        f_error.write(text + "\n")
+                    else: 
+                        f_years.write(year + "\n")
+                        f_out.write("== " + name + ", " + year + " ==\n")
+                        f_out.write(summary +"\n")
+                    
 
 
 
-    
+        

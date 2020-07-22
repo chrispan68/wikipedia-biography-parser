@@ -44,7 +44,6 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
                     if param.name.strip_code().strip() == 'birth_date':
                         raw_year_string = str(param.value)
                         birth_year = self.get_birth_year(raw_year_string)
-            
             summary = self.get_summary(wikicode.strip_code().strip())
             return (title, birth_year, summary, raw_year_string, infobox)
 
