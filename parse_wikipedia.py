@@ -30,6 +30,7 @@ with open(output, 'w') as f_out:
                 year = handler._people[-1][1]
                 summary = handler._people[-1][2]
                 year_raw = handler._people[-1][3]
+                text = handler._people[-1][4]
                 size = len(handler._people)
                 if size % 100 == 0:
                     print("\n=======================================")
@@ -39,8 +40,10 @@ with open(output, 'w') as f_out:
                 print(name + ": " + year)
                 if year == 'ERROR' or year == 'EMPTY' or int(year) > 2000:
                     failures += 1
+                    f_error.write("========================================================\n")
                     f_error.write("== " + name + ", " + year + "==\n")
                     f_error.write(year_raw + "\n")
+                    f_error.write(text + "\n")
                 else: 
                     f_out.write("== " + name + ", " + year + " ==\n")
                     f_out.write(summary +"\n")

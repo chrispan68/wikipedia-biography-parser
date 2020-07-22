@@ -11,6 +11,8 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         self._people = []
 
     def get_summary(self, full_text):
+        if full_text.find(" ==") == -1:
+            return full_text
         return full_text[:full_text.index(" ==") - 1]
     def get_birth_year(self, wiki_year_string):
         query_strings = ['Birth date and age|', 'Birth year and age|', 'Birth date|']
@@ -42,7 +44,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
                         birth_year = self.get_birth_year(raw_year_string)
             
             summary = self.get_summary(wikicode.strip_code().strip())
-            return (title, birth_year, summary, raw_year_string)
+            return (title, birth_year, summary, raw_year_string, text)
 
     def characters(self, content):
         """Characters between opening and closing tags"""
