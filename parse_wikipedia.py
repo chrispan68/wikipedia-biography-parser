@@ -13,6 +13,7 @@ parser = xml.sax.make_parser()
 parser.setContentHandler(handler)
 # Iteratively process file
 with open(output, 'w') as f:
+    failures = 0
     for line in subprocess.Popen(['bzcat'], 
                                 stdin = open(data_path), 
                                 stdout = subprocess.PIPE).stdout:
@@ -23,11 +24,21 @@ with open(output, 'w') as f:
             break
 
         if len(handler._people) > begin:
-            print(handler._people[-1][0] + ": " + handler._people[-1][1] + "\n")
-            f.write("== " + handler._people[-1][0] + ", " + handler._people[-1][1] + " ==\n")
-            f.write(handler._people[-1][2] +"\n")
-            if handler._people[-1][0] == 'Anita Hill':
-                break
+            name = handler._people[-1][0]
+            year = handler._people[-1][1]
+            summary = handler._people[-1][2]
+            size = len(handler._people)
+            if size % 100 == 0:
+                print("=======================================")
+                print("Current number of Biographies: " + str(size))
+                print("Current success rate: " + str(failures / size))
+            print(name + ": " + year)
+            if year == 'ERROR' or year == 'NONE' or int(year) > 2020:
+                failures += 1
+            else: 
+                f.write("== " + name + ", " + year + " ==\n")
+                f.write(summary +"\n")
+            
 
 
 

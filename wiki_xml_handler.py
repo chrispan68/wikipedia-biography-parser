@@ -18,8 +18,8 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         for query in query_strings:
             if wiki_year_string.find(query) > -1:
                 index = max(index, wiki_year_string.find(query) + len(query))
-        
-        for i in range(index, len(wiki_year_string)):
+        #extracts 4 digit years
+        for i in range(index, len(wiki_year_string) - 4):
             if wiki_year_string[i:i+4].isdigit():
                 return wiki_year_string[i:i+4]
         return 'ERROR'
@@ -41,7 +41,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
                         birth_year = self.get_birth_year(str(param.value))
             
             summary = self.get_summary(wikicode.strip_code().strip())
-            return (title, birth_year, summary, text)
+            return (title, birth_year, summary)
 
     def characters(self, content):
         """Characters between opening and closing tags"""
