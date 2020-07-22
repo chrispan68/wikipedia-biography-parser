@@ -37,7 +37,7 @@ with open(output, 'w') as f_out:
                     print("Current success rate: " + str(failures / size))
                     print("=======================================\n")
                 print(name + ": " + year)
-                if year == 'ERROR' or year == 'NONE' or int(year) > 2000:
+                if year == 'ERROR' or year == 'EMPTY' or int(year) > 2000:
                     failures += 1
                     f_error.write("== " + name + ", " + year + "==\n")
                     f_error.write(year_raw + "\n")

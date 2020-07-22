@@ -31,9 +31,9 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         
         # Search through templates for the template
         matches = wikicode.filter_templates(matches = template)
-        
+        raw_year_string = 'EMPTY'
+        birth_year = 'EMPTY'
         if len(matches) >= 1:
-            birth_year = 'NONE'
             # Extract information from infobox
             for match in matches:
                 for param in match.params:
