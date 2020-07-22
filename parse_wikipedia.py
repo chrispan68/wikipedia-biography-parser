@@ -23,12 +23,11 @@ with open(output, 'w') as f:
             break
 
         if len(handler._people) > begin:
-            if handler._people[-1][0] == 'Anita Hill':
-                print(handler._people[-1][3])
-                break
             print(handler._people[-1][0] + ": " + handler._people[-1][1] + "\n")
             f.write("== " + handler._people[-1][0] + ", " + handler._people[-1][1] + " ==\n")
             f.write(handler._people[-1][2] +"\n")
+            if handler._people[-1][0] == 'Anita Hill':
+                break
 
 
 
