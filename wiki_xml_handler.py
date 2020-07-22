@@ -13,6 +13,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
     def get_birth_year(self, wiki_year_string):
         for i in range(len(wiki_year_string) - 4):
             if wiki_year_string[i:i+4].isdigit():
+                #print(wiki_year_string[i:i+4])
                 return wiki_year_string[i:i+4]
         return 'ERROR'
     def process_article(self, title, text, template = 'Infobox person'):
@@ -30,7 +31,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
             for match in matches:
                 for param in match.params:
                     if param.name.strip_code().strip() == 'birth_date':
-                        birth_year = str(self.get_birth_year(str(param.value)))
+                        birth_year = self.get_birth_year(str(param.value))
             
             raw_text = wikicode.strip_code().strip()
             return (title, birth_year, raw_text)
