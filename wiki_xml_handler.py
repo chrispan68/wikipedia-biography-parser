@@ -10,6 +10,9 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         self._current_tag = None
         self._people = []
 
+    def get_birth_year(self, wiki_year_string):
+        str_year = wiki_year_string[wiki_year_string.index('|') + 1, wiki_year_string.index('|') + 5]
+        return int(str_year)
     def process_article(self, title, text, template = 'Infobox person'):
         """Process a wikipedia article looking for template"""
         
@@ -19,18 +22,16 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         # Search through templates for the template
         matches = wikicode.filter_templates(matches = template)
         
-        properties = {}
         if len(matches) >= 1:
+            birth_year = 'NONE'
             # Extract information from infobox
             for match in matches:
                 for param in match.params:
-                    print("PARAM: " + str(param.name))
-                properties.update({param.name.strip_code().strip(): param.value.strip_code().strip() 
-                            for param in match.params
-                            if param.value.strip_code().strip()})
+                    if param.name.strip_code().strip() == 'birth_date':
+                        birth_year = str(self.get_birth_year(str(param.value)))
             
-            raw_text = str(wikicode)
-            return (title, properties, raw_text)
+            raw_text = wikicode.strip_code().strip()
+            return (title, birth_year, raw_text)
 
     def characters(self, content):
         """Characters between opening and closing tags"""
