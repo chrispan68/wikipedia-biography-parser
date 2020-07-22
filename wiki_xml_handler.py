@@ -11,7 +11,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         self._people = []
 
     def get_summary(self, full_text):
-        return full_text[:full_text.index(" ==")]
+        return full_text[:full_text.index(" ==") - 1]
     def get_birth_year(self, wiki_year_string):
         for i in range(len(wiki_year_string) - 4, -1, -1):
             if wiki_year_string[i:i+4].isdigit():

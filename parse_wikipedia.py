@@ -27,7 +27,6 @@ with open(output, 'w') as f:
             print(handler._people[-1][0] + ": " + handler._people[-1][1] + "\n")
             f.write("== " + handler._people[-1][0] + ", " + handler._people[-1][1] + " ==\n")
             f.write(handler._people[-1][2] +"\n")
-            break
 
 
 
