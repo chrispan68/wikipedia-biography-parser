@@ -11,6 +11,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         self._people = []
 
     def get_birth_year(self, wiki_year_string):
+        print(wiki_year_string)
         str_year = wiki_year_string[wiki_year_string.index('|') + 1, wiki_year_string.index('|') + 5]
         return int(str_year)
     def process_article(self, title, text, template = 'Infobox person'):
