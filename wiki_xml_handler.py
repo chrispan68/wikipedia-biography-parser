@@ -12,8 +12,8 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
 
     def get_birth_year(self, wiki_year_string):
         for i in range(len(wiki_year_string) - 4):
-            if wiki_year_string[i, i+4].isdigit():
-                return wiki_year_string[i,i+4]
+            if wiki_year_string[i:i+4].isdigit():
+                return wiki_year_string[i:i+4]
         return 'ERROR'
     def process_article(self, title, text, template = 'Infobox person'):
         """Process a wikipedia article looking for template"""
