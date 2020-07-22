@@ -47,7 +47,7 @@ with open(output, 'w') as f_out:
                         f_error.write(year_raw + "\n")
                         f_error.write(text + "\n")
                     else: 
-                        f_years.write(year + "\n")
+                        f_year.write(year + "\n")
                         f_out.write("== " + name + ", " + year + " ==\n")
                         f_out.write(summary +"\n")
                     
