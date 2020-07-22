@@ -21,10 +21,10 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         
         properties = {}
         if len(matches) >= 1:
-            if len(matches) >= 2:
-                print('JFIAOIJEIOSEFJOAJSEIFJAOSEJFOIASJEFIJASEOIFOASIEFJOIASEJFIASJEFOAJSEFEASOJAFASEJFAS')
             # Extract information from infobox
             for match in matches:
+                for param in match.params:
+                    print("PARAM: " + str(param.name))
                 properties.update({param.name.strip_code().strip(): param.value.strip_code().strip() 
                             for param in match.params
                             if param.value.strip_code().strip()})
