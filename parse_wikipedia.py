@@ -5,6 +5,7 @@ import subprocess
 
 data_path = sys.argv[1]
 output = sys.argv[2]
+error = sys.argv[3]
 
 # Object for handling xml
 handler = WikiXmlHandler()
