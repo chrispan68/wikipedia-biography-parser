@@ -19,8 +19,9 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
             if wiki_year_string.find(query) > -1:
                 index = max(index, wiki_year_string.find(query) + len(query))
         
-        if index > -1:
-            return wiki_year_string[index:index+4]
+        for i in range(index, len(wiki_year_string)):
+            if wiki_year_string[i:i+4].isdigit():
+                return wiki_year_string[i:i+4]
         return 'ERROR'
     def process_article(self, title, text, template = 'Infobox person'):
         """Process a wikipedia article looking for template"""
