@@ -38,6 +38,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
             for match in matches:
                 for param in match.params:
                     if param.name.strip_code().strip() == 'birth_date':
+                        if title == 'Bob Young (businessman)'
                         birth_year = self.get_birth_year(str(param.value))
             
             summary = self.get_summary(wikicode.strip_code().strip())

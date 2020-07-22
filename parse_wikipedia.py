@@ -29,9 +29,10 @@ with open(output, 'w') as f:
             summary = handler._people[-1][2]
             size = len(handler._people)
             if size % 100 == 0:
-                print("=======================================")
+                print("\n=======================================")
                 print("Current number of Biographies: " + str(size))
                 print("Current success rate: " + str(failures / size))
+                print("=======================================\n")
             print(name + ": " + year)
             if year == 'ERROR' or year == 'NONE' or int(year) > 2020:
                 failures += 1
