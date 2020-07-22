@@ -35,16 +35,18 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         matches = wikicode.filter_templates(matches = template)
         raw_year_string = 'EMPTY'
         birth_year = 'EMPTY'
+        infobox = ''
         if len(matches) >= 1:
             # Extract information from infobox
             for match in matches:
+                infobox = str(match)
                 for param in match.params:
                     if param.name.strip_code().strip() == 'birth_date':
                         raw_year_string = str(param.value)
                         birth_year = self.get_birth_year(raw_year_string)
             
             summary = self.get_summary(wikicode.strip_code().strip())
-            return (title, birth_year, summary, raw_year_string, text)
+            return (title, birth_year, summary, raw_year_string, infobox)
 
     def characters(self, content):
         """Characters between opening and closing tags"""
