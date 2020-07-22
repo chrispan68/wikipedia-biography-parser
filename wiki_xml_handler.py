@@ -13,10 +13,14 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
     def get_summary(self, full_text):
         return full_text[:full_text.index(" ==") - 1]
     def get_birth_year(self, wiki_year_string):
-        for i in range(len(wiki_year_string) - 4, -1, -1):
-            if wiki_year_string[i:i+4].isdigit():
-                #print(wiki_year_string[i:i+4])
-                return wiki_year_string[i:i+4]
+        query_strings = ['Birth date and age|', 'Birth year and age|', 'Birth date|']
+        index = -1
+        for query in query_strings:
+            if wiki_year_string.find(query) > -1:
+                index = max(index, wiki_year_string.find(query) + len(query))
+        
+        if index > -1:
+            return wiki_year_string[index:index+4]
         return 'ERROR'
     def process_article(self, title, text, template = 'Infobox person'):
         """Process a wikipedia article looking for template"""
