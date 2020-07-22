@@ -36,7 +36,7 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
                         birth_year = self.get_birth_year(str(param.value))
             
             summary = self.get_summary(wikicode.strip_code().strip())
-            return (title, birth_year, summary, full_text)
+            return (title, birth_year, summary, text)
 
     def characters(self, content):
         """Characters between opening and closing tags"""
