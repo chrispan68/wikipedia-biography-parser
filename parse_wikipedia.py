@@ -34,11 +34,7 @@ with open(output, 'w') as f_out:
                     year_raw = handler._people[-1][3]
                     text = handler._people[-1][4]
                     size = len(handler._people)
-                    if size % 100 == 0:
-                        print("\r=======================================")
-                        print("Current number of Biographies: " + str(size))
-                        print("Current success rate: " + str(failures / size))
-                        print("=======================================\n")
+                    print("\rCurrent number of Biographies: " + str(size) + ". Current success rate: " + str(failures / size))
                     if year == 'ERROR' or year == 'EMPTY' or int(year) > 2000:
                         failures += 1
                         f_error.write("========================================================\n")
